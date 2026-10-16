@@ -5,8 +5,8 @@ async function api(path,value){const response=await fetch('/api/'+path,{method:v
 function line(parent,tag,text,cls){const node=document.createElement(tag);node.textContent=text;if(cls)node.className=cls;parent.append(node);return node;}
 function link(parent,label,url){try{const parsed=new URL(url);if(parsed.protocol!=='https:'||!['www.bandaispirits.co.jp','manual.bandai-hobby.net'].includes(parsed.hostname))return;const a=line(parent,'a',label);a.href=url;a.target='_blank';a.rel='noopener noreferrer';}catch{}}
 function render(){if(!state)return;el('catalog').textContent=`${state.version} · ${state.products}商品 / ${state.barcodes}件のJAN`;el('message').textContent=state.job.message;
-const rows=state.report?.items||[];const approvals=rows.filter(r=>state.decisions[r.id]==='approved').length;
-el('summary').textContent=state.report?`取得：${state.report.collected_at} / ${rows.length}候補 / 承認${approvals}件 / 今回の確認上限を超えた候補${state.report.remaining||0}件`:'まだ収集していません。まず「公式情報を収集する」を押してください。';
+const rows=[...(state.report?.items||[])].sort((a,b)=>Number(b.eligible)-Number(a.eligible));const approvals=rows.filter(r=>state.decisions[r.id]==='approved').length;
+el('summary').textContent=state.report?`取得：${new Date(state.report.collected_at).toLocaleString('ja-JP',{timeZone:'Asia/Tokyo'})}（日本時間） / ${rows.length}候補 / 承認${approvals}件 / 今回の確認上限を超えた候補${state.report.remaining||0}件`:'まだ収集していません。まず「公式情報を収集する」を押してください。';
 const query=el('search').value.normalize('NFKC').toLowerCase();el('items').replaceChildren();
 for(const row of rows){if(!`${row.name||row.listed_name} ${row.jan}`.normalize('NFKC').toLowerCase().includes(query))continue;
 const article=document.createElement('article');const label=line(article,'label','','row');const input=document.createElement('input');input.type='checkbox';input.value=row.id;input.setAttribute('aria-label',row.listed_name);input.disabled=state.job.busy;label.append(input);const content=line(label,'div','');line(content,'h3',row.name||row.listed_name);line(content,'span',state.decisions[row.id]==='approved'?'承認済み':state.decisions[row.id]==='held'?'保留':row.eligible?'確認して承認可能':'要確認','tag '+(row.eligible?'ready':'held'));
