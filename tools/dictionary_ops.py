@@ -187,6 +187,13 @@ def validate(catalog, old=None):
 def fingerprint(row):
     return digest(encoded({k: v for k, v in row.items() if k != 'id'}))[:24]
 
+def decision_key(report, candidate_id):
+    return report['base_sha256'] + ':' + candidate_id
+
+def scoped_decisions(report, decisions):
+    if not report: return {}
+    return {row['id']: decisions[decision_key(report, row['id'])] for row in report['items'] if decision_key(report, row['id']) in decisions}
+
 def collect(catalog, base_hash, fetch, limit=30):
     validate(catalog)
     products = {p['product_id']: p for p in catalog['products']}
@@ -422,9 +429,10 @@ def server(repo, port, open_browser=True):
             if path == '/api/state':
                 catalog = read(repo / 'gunpla_dictionary.json')
                 decisions = read(state_dir / 'decisions.json') if (state_dir / 'decisions.json').exists() else {}
+                report = read(report_path) if report_path.exists() else None
                 return self.send(200, encoded({'job': job, 'version': catalog['dictionary_version'],
                     'products': len(catalog['products']), 'barcodes': len(catalog['barcodes']),
-                    'report': read(report_path) if report_path.exists() else None, 'decisions': decisions}))
+                    'report': report, 'decisions': scoped_decisions(report, decisions)}))
             return self.send(404, encoded({'error': 'Not found'}))
 
         def do_POST(self):
@@ -457,20 +465,22 @@ def server(repo, port, open_browser=True):
                 if path == '/api/decision':
                     if job['busy']: raise ValueError('収集中は承認できません')
                     report = read(report_path)
+                    if report.get('base_sha256') != digest((repo / 'gunpla_dictionary.json').read_bytes()): raise ValueError('候補の基準辞書が古いため、再収集してください')
                     ids = {row['id']: row for row in report['items']}
                     if value.get('decision') not in ('approved', 'held'): raise ValueError('選択が不正です')
                     decisions_path = state_dir / 'decisions.json'
                     decisions = read(decisions_path) if decisions_path.exists() else {}
                     for key in value['ids']:
                         if key not in ids or (value['decision'] == 'approved' and not ids[key]['eligible']): raise ValueError('未確認の候補は承認できません')
-                        decisions[key] = value['decision']
+                        decisions[decision_key(report, key)] = value['decision']
                     atomic(decisions_path, decisions)
                     return self.send(200, encoded({'ok': True}))
                 if path == '/api/export':
                     if job['busy']: raise ValueError('収集中は書き出せません')
                     report = read(report_path)
-                    decisions = read(state_dir / 'decisions.json') if (state_dir / 'decisions.json').exists() else {}
+                    decisions = scoped_decisions(report, read(state_dir / 'decisions.json') if (state_dir / 'decisions.json').exists() else {})
                     selected = [row['id'] for row in report['items'] if decisions.get(row['id']) == 'approved']
+                    if not selected: raise ValueError('承認した候補がありません')
                     recheck([row for row in report['items'] if row['id'] in selected], Fetcher(state_dir / 'cache').get)
                     raw = (repo / 'gunpla_dictionary.json').read_bytes()
                     live = json.loads(public_json('https://raw.githubusercontent.com/karasho07/tsumipla-dictionary/main/dictionary_manifest.json'))
