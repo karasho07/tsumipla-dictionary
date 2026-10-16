@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "dictionary_version": "2026-10-15.1",
+  "dictionary_version": "2026-10-16.1",
   "products": [
     {
       "product_id": "hg-import-v1-2",
@@ -17598,6 +17598,86 @@
       "image_url": null,
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/650",
       "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4159",
+      "name": "オプションパーツセット ガンプラ 19 (フィン・ファンネル)",
+      "grade": null,
+      "scale": null,
+      "release_date": "2026-01-24",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4159",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4094",
+      "name": "Figure-rise Standard ティファ・アディール",
+      "grade": null,
+      "scale": null,
+      "release_date": "2026-01-10",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4094",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-3995",
+      "name": "オプションパーツセット ガンプラ 18 (ビルドブースターセット)",
+      "grade": null,
+      "scale": null,
+      "release_date": "2025-11-22",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/3995",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-3928",
+      "name": "ENTRY GRADE 1/144 ウイングガンダム",
+      "grade": null,
+      "scale": "1/144",
+      "release_date": "2025-10-11",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/3928",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-5417",
+      "name": "ENTRY GRADE 1/144 RX-78-2 ガンダム [浮世絵パッケージVer.]",
+      "grade": null,
+      "scale": "1/144",
+      "release_date": "2026-08-29",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/5417",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-5419",
+      "name": "ENTRY GRADE 1/144 ウイングガンダム [浮世絵パッケージVer.]",
+      "grade": null,
+      "scale": "1/144",
+      "release_date": "2026-08-29",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/5419",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-5418",
+      "name": "ENTRY GRADE 1/144 ストライクガンダム [浮世絵パッケージVer.]",
+      "grade": null,
+      "scale": "1/144",
+      "release_date": "2026-08-29",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/5418",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4956",
+      "name": "ガンダムデカールNo.143 HG 1/144 機動戦士ガンダム 閃光のハサウェイ汎用②",
+      "grade": null,
+      "scale": "1/144",
+      "release_date": "2026-04-25",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4956",
+      "source_row": null
     }
   ],
   "barcodes": {
@@ -35050,6 +35130,70 @@
       "matched_name": "PG 1/60 ウイングガンダムゼロカスタム",
       "verified_at": "2026-10-15",
       "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4573102720115": {
+      "product_id": "manual-auto-4159",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720115",
+      "matched_name": "オプションパーツセット ガンプラ 19 (フィン・ファンネル)",
+      "verified_at": "2026-10-16",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102720115000&grp_id=5325"
+    },
+    "4573102691941": {
+      "product_id": "manual-auto-4094",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102691941",
+      "matched_name": "Figure-rise Standard ティファ・アディール",
+      "verified_at": "2026-10-16",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102691941000&grp_id=5325"
+    },
+    "4573102691828": {
+      "product_id": "manual-auto-3995",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102691828",
+      "matched_name": "オプションパーツセット ガンプラ 18 (ビルドブースターセット)",
+      "verified_at": "2026-10-16",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102691828000&grp_id=5325"
+    },
+    "4573102691606": {
+      "product_id": "manual-auto-3928",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102691606",
+      "matched_name": "ENTRY GRADE 1/144 ウイングガンダム",
+      "verified_at": "2026-10-16",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102691606000&grp_id=5325"
+    },
+    "4573102725318": {
+      "product_id": "manual-auto-5417",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102725318",
+      "matched_name": "ENTRY GRADE 1/144 RX-78-2 ガンダム [浮世絵パッケージVer.]",
+      "verified_at": "2026-10-16",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102725318000&grp_id=5325"
+    },
+    "4573102725349": {
+      "product_id": "manual-auto-5419",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102725349",
+      "matched_name": "ENTRY GRADE 1/144 ウイングガンダム [浮世絵パッケージVer.]",
+      "verified_at": "2026-10-16",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102725349000&grp_id=5325"
+    },
+    "4573102725332": {
+      "product_id": "manual-auto-5418",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102725332",
+      "matched_name": "ENTRY GRADE 1/144 ストライクガンダム [浮世絵パッケージVer.]",
+      "verified_at": "2026-10-16",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102725332000&grp_id=5325"
+    },
+    "4573102725301": {
+      "product_id": "manual-auto-4956",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102725301",
+      "matched_name": "ガンダムデカールNo.143 HG 1/144 機動戦士ガンダム 閃光のハサウェイ汎用②",
+      "verified_at": "2026-10-16",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102725301000&grp_id=5325"
     }
   }
 }
