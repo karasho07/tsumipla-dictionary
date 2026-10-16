@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "dictionary_version": "2026-10-08.4",
+  "dictionary_version": "2026-10-15.1",
   "products": [
     {
       "product_id": "hg-import-v1-2",
@@ -17248,6 +17248,356 @@
       "image_url": null,
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2198",
       "source_row": null
+    },
+    {
+      "product_id": "pg-manual-651",
+      "name": "PG 1/60 ガンダムMk-II",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/651",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-1054",
+      "name": "PG 1/60 ガンダムMk-II(ティターンズカラー)",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/1054",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-1055",
+      "name": "PG 1/60 RX-78ガンダムGP01/FB",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/1055",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-652",
+      "name": "PG 1/60 ストライクガンダム",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/652",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-654",
+      "name": "PG 1/60 ストライクルージュ＋スカイグラスパー",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": "2005-08-27",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/654",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-655",
+      "name": "PG 1/60 ガンダムアストレイ レッドフレーム",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/655",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-1053",
+      "name": "PG 1/60 ダブルオーライザー",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": "2009-11-26",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/1053",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-2216",
+      "name": "ＰＧ 1/60 ガンダムアストレイ ブルーフレーム",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2216",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-1057",
+      "name": "PG 1/60 RX-0 ユニコーンガンダム",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": "2014-12-13",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/1057",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-666",
+      "name": "PG 1/60 RX-0 ユニコーンガンダム用 LEDユニット",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": "2014-12-13",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/666",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-2266",
+      "name": "ＰＧ 1/60 ユニコーンガンダム用 FA拡張ユニット",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2266",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-653",
+      "name": "PG 1/60 スカイグラスパー+エールストライカー",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": "2005-06-11",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/653",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-1058",
+      "name": "PG 1/60 RX-0[N] ユニコーンガンダム2号機 バンシィ・ノルン",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": "2015-09-30",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/1058",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-2666",
+      "name": "ＰＧ 1/60 ユニコーンガンダム3号機 フェネクス",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2666",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-2867",
+      "name": "ＰＧ 1/60 トランザムライザー クリアカラーボディ",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2867",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-1059",
+      "name": "PG 1/60 ガンダムエクシア",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": "2017-12-02",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/1059",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-1060",
+      "name": "PG 1/60 ダブルオーガンダムセブンソード/G",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": "2018-12-15",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/1060",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-1040",
+      "name": "PG 1/60 ガンダムエクシア用LEDユニット",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": "2018-12-29",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/1040",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-1061",
+      "name": "PG 1/60 パーフェクトストライクガンダム",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": "2020-02-22",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/1061",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-2315",
+      "name": "ＰＧ 1/60 ストライクガンダム用 パーフェクトストライクガンダム拡張パーツ",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2315",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-2752",
+      "name": "ＰＧ 1/60 ダブルオーガンダムセブンソード／Ｇインスペクション",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2752",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-1066",
+      "name": "PG UNLEASHED 1/60 RX-78-2 ガンダム",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": "2020-12-19",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/1066",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-2324",
+      "name": "ＰＧ 1/60 ユニコーンガンダム３号機 フェネクス（ナラティブＶｅｒ．)",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2324",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-2405",
+      "name": "ＰＧ 1/60 ユニコーンガンダム ペルフェクティビリティ用 ディバイン拡張セット",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2405",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-2359",
+      "name": "ＰＧ 1/60 ユニコーンガンダム ペルフェクティビリティ",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2359",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-2672",
+      "name": "ＰＧ 1/60 トランザムライザー",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2672",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-2289",
+      "name": "ＰＧ 1/60 ユニコーンガンダム(最終決戦Ｖｅｒ．)",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2289",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-2703",
+      "name": "ＰＧ 1/60 ユニコーンガンダム2号機 バンシィ・ノルン（最終決戦Ｖｅｒ．）",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2703",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-4200",
+      "name": "PG UNLEASHED 1/60 νガンダム",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": "2026-01-31",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4200",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-4192",
+      "name": "PG UNLEASHED 1/60 νガンダム用 LEDユニット",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": "2026-01-31",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4192",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-985",
+      "name": "PG 1/60 RX-78-2 ガンダム",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/985",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-987",
+      "name": "PG 1/60 MS-06S シャア専用ザク2",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/987",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-988",
+      "name": "PG 1/60 MS-06F 量産型ザク2",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/988",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-649",
+      "name": "PG 1/60 MSZ-006 ゼータガンダム",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/649",
+      "source_row": null
+    },
+    {
+      "product_id": "pg-manual-650",
+      "name": "PG 1/60 ウイングガンダムゼロカスタム",
+      "grade": "PG",
+      "scale": "1/60",
+      "release_date": "2000-11-23",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/650",
+      "source_row": null
     }
   ],
   "barcodes": {
@@ -34420,6 +34770,286 @@
       "matched_name": "ＲＧ 1/144 量産型ズゴック",
       "verified_at": "2026-10-08",
       "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/rg-l"
+    },
+    "4543112060471": {
+      "product_id": "pg-manual-651",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112060471",
+      "matched_name": "PG 1/60 ガンダムMk-II",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4543112128164": {
+      "product_id": "pg-manual-1054",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112128164",
+      "matched_name": "PG 1/60 ガンダムMk-II(ティターンズカラー)",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4543112164094": {
+      "product_id": "pg-manual-1055",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112164094",
+      "matched_name": "PG 1/60 RX-78ガンダムGP01/FB",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4543112314130": {
+      "product_id": "pg-manual-652",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112314130",
+      "matched_name": "PG 1/60 ストライクガンダム",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4543112382573": {
+      "product_id": "pg-manual-654",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112382573",
+      "matched_name": "PG 1/60 ストライクルージュ＋スカイグラスパー",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4543112584632": {
+      "product_id": "pg-manual-655",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112584632",
+      "matched_name": "PG 1/60 ガンダムアストレイ レッドフレーム",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4543112610164": {
+      "product_id": "pg-manual-1053",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112610164",
+      "matched_name": "PG 1/60 ダブルオーライザー",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4543112863614": {
+      "product_id": "pg-manual-2216",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112863614",
+      "matched_name": "ＰＧ 1/60 ガンダムアストレイ ブルーフレーム",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4543112943651": {
+      "product_id": "pg-manual-1057",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112943651",
+      "matched_name": "PG 1/60 RX-0 ユニコーンガンダム",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4543112943668": {
+      "product_id": "pg-manual-666",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112943668",
+      "matched_name": "PG 1/60 RX-0 ユニコーンガンダム用 LEDユニット",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4543112956859": {
+      "product_id": "pg-manual-2266",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112956859",
+      "matched_name": "ＰＧ 1/60 ユニコーンガンダム用 FA拡張ユニット",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4543112980151": {
+      "product_id": "pg-manual-653",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112980151",
+      "matched_name": "PG 1/60 スカイグラスパー+エールストライカー",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4549660006411": {
+      "product_id": "pg-manual-1058",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4549660006411",
+      "matched_name": "PG 1/60 RX-0[N] ユニコーンガンダム2号機 バンシィ・ノルン",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4549660153412": {
+      "product_id": "pg-manual-2666",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4549660153412",
+      "matched_name": "ＰＧ 1/60 ユニコーンガンダム3号機 フェネクス",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4549660175933": {
+      "product_id": "pg-manual-2867",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4549660175933",
+      "matched_name": "ＰＧ 1/60 トランザムライザー クリアカラーボディ",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4549660222491": {
+      "product_id": "pg-manual-1059",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4549660222491",
+      "matched_name": "PG 1/60 ガンダムエクシア",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4573102555823": {
+      "product_id": "pg-manual-1060",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102555823",
+      "matched_name": "PG 1/60 ダブルオーガンダムセブンソード/G",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4573102558671": {
+      "product_id": "pg-manual-1040",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102558671",
+      "matched_name": "PG 1/60 ガンダムエクシア用LEDユニット",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4573102590114": {
+      "product_id": "pg-manual-1061",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102590114",
+      "matched_name": "PG 1/60 パーフェクトストライクガンダム",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4573102591333": {
+      "product_id": "pg-manual-2315",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102591333",
+      "matched_name": "ＰＧ 1/60 ストライクガンダム用 パーフェクトストライクガンダム拡張パーツ",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4573102592224": {
+      "product_id": "pg-manual-2752",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102592224",
+      "matched_name": "ＰＧ 1/60 ダブルオーガンダムセブンソード／Ｇインスペクション",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4573102607652": {
+      "product_id": "pg-manual-1066",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102607652",
+      "matched_name": "PG UNLEASHED 1/60 RX-78-2 ガンダム",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4573102612380": {
+      "product_id": "pg-manual-2324",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102612380",
+      "matched_name": "ＰＧ 1/60 ユニコーンガンダム３号機 フェネクス（ナラティブＶｅｒ．)",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4573102632807": {
+      "product_id": "pg-manual-2405",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102632807",
+      "matched_name": "ＰＧ 1/60 ユニコーンガンダム ペルフェクティビリティ用 ディバイン拡張セット",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4573102632814": {
+      "product_id": "pg-manual-2359",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102632814",
+      "matched_name": "ＰＧ 1/60 ユニコーンガンダム ペルフェクティビリティ",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4573102635679": {
+      "product_id": "pg-manual-2672",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102635679",
+      "matched_name": "ＰＧ 1/60 トランザムライザー",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4573102648822": {
+      "product_id": "pg-manual-2289",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102648822",
+      "matched_name": "ＰＧ 1/60 ユニコーンガンダム(最終決戦Ｖｅｒ．)",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4573102669094": {
+      "product_id": "pg-manual-2703",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102669094",
+      "matched_name": "ＰＧ 1/60 ユニコーンガンダム2号機 バンシィ・ノルン（最終決戦Ｖｅｒ．）",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4573102691910": {
+      "product_id": "pg-manual-4200",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102691910",
+      "matched_name": "PG UNLEASHED 1/60 νガンダム",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4573102693617": {
+      "product_id": "pg-manual-4192",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102693617",
+      "matched_name": "PG UNLEASHED 1/60 νガンダム用 LEDユニット",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4902425606255": {
+      "product_id": "pg-manual-985",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4902425606255",
+      "matched_name": "PG 1/60 RX-78-2 ガンダム",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4902425718705": {
+      "product_id": "pg-manual-987",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4902425718705",
+      "matched_name": "PG 1/60 MS-06S シャア専用ザク2",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4902425723617": {
+      "product_id": "pg-manual-988",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4902425723617",
+      "matched_name": "PG 1/60 MS-06F 量産型ザク2",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4902425756806": {
+      "product_id": "pg-manual-649",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4902425756806",
+      "matched_name": "PG 1/60 MSZ-006 ゼータガンダム",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
+    },
+    "4902425776590": {
+      "product_id": "pg-manual-650",
+      "verification": "official_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4902425776590",
+      "matched_name": "PG 1/60 ウイングガンダムゼロカスタム",
+      "verified_at": "2026-10-15",
+      "candidate_source_url": "https://gunpla.chibakan-yachiyo.net/pg"
     }
   }
 }
