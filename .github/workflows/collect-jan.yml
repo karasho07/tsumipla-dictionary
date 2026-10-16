@@ -1,0 +1,54 @@
+name: JAN候補を毎日収集
+on:
+  schedule:
+    - cron: '17 21 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: jan-candidate-collector
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: コードと配信辞書を検証
+        run: |
+          python -m unittest discover -s tests -v
+          python tools/dictionary_ops.py validate
+      - name: 公式情報から候補を収集（配信辞書は変更しない）
+        id: collect
+        run: python tools/dictionary_ops.py collect --output /tmp/jan-latest.json
+      - name: エラーがあっても今回の結果を保存
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jan-candidates
+          path: /tmp/jan-latest.json
+          if-no-files-found: warn
+          retention-days: 14
+      - name: 候補専用ブランチに保存
+        if: ${{ always() && (steps.collect.outcome == 'success' || steps.collect.outcome == 'failure') }}
+        run: |
+          test -f /tmp/jan-latest.json
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if git ls-remote --exit-code --heads origin jan-candidates; then
+            git fetch origin jan-candidates
+            git checkout -b jan-candidates origin/jan-candidates
+          else
+            git checkout -b jan-candidates
+          fi
+          mkdir -p reports
+          cp /tmp/jan-latest.json reports/latest.json
+          git add reports/latest.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update JAN review candidates'
+            git push origin HEAD:jan-candidates
+          fi
+          printf '候補だけを jan-candidates ブランチへ保存しました。main の配信辞書は変更していません。\n' >> "$GITHUB_STEP_SUMMARY"
