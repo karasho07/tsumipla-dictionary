@@ -1,0 +1,22 @@
+'use strict';
+const token=location.hash.slice(1)||sessionStorage.getItem('operatorToken')||'';if(token)sessionStorage.setItem('operatorToken',token);history.replaceState(null,'',location.pathname);
+const el=id=>document.getElementById(id);let state=null;let busy=false;
+async function api(path,value){const response=await fetch('/api/'+path,{method:value===undefined?'GET':'POST',headers:{'X-Operator-Token':token,'Content-Type':'application/json'},...(value===undefined?{}:{body:JSON.stringify(value)})});if(!response.ok){const error=await response.json();throw Error(error.error||'処理できませんでした');}return response;}
+function line(parent,tag,text,cls){const node=document.createElement(tag);node.textContent=text;if(cls)node.className=cls;parent.append(node);return node;}
+function link(parent,label,url){try{const parsed=new URL(url);if(parsed.protocol!=='https:'||!['www.bandaispirits.co.jp','manual.bandai-hobby.net'].includes(parsed.hostname))return;const a=line(parent,'a',label);a.href=url;a.target='_blank';a.rel='noopener noreferrer';}catch{}}
+function render(){if(!state)return;el('catalog').textContent=`${state.version} · ${state.products}商品 / ${state.barcodes}件のJAN`;el('message').textContent=state.job.message;
+const rows=state.report?.items||[];const approvals=rows.filter(r=>state.decisions[r.id]==='approved').length;
+el('summary').textContent=state.report?`取得：${state.report.collected_at} / ${rows.length}候補 / 承認${approvals}件 / 今回の確認上限を超えた候補${state.report.remaining||0}件`:'まだ収集していません。まず「公式情報を収集する」を押してください。';
+const query=el('search').value.normalize('NFKC').toLowerCase();el('items').replaceChildren();
+for(const row of rows){if(!`${row.name||row.listed_name} ${row.jan}`.normalize('NFKC').toLowerCase().includes(query))continue;
+const article=document.createElement('article');const label=line(article,'label','','row');const input=document.createElement('input');input.type='checkbox';input.value=row.id;input.setAttribute('aria-label',row.listed_name);input.disabled=state.job.busy;label.append(input);const content=line(label,'div','');line(content,'h3',row.name||row.listed_name);line(content,'span',state.decisions[row.id]==='approved'?'承認済み':state.decisions[row.id]==='held'?'保留':row.eligible?'確認して承認可能':'要確認','tag '+(row.eligible?'ready':'held'));
+const meta=line(article,'div','','meta');line(meta,'p',`${row.kind} / JAN ${row.jan} / 発売日 ${row.release_date||'未確認'}`);line(meta,'p',row.reason);if(row.name&&row.name!==row.listed_name)line(meta,'p','商品一覧の表記：'+row.listed_name);const links=line(meta,'div','','links');link(links,'公式商品ページ',row.candidate_source_url);link(links,'JANで説明書検索',row.source_url);if(row.official_manual_url)link(links,'照合した説明書',row.official_manual_url);el('items').append(article);}
+for(const name of ['collect','sync','approve','hold','export','import'])el(name).disabled=busy||state.job.busy||(name==='export'&&!approvals);
+}
+async function refresh(){state=await(await api('state')).json();render();}
+async function perform(action){if(busy)return;busy=true;el('error').textContent='';render();try{await action();await refresh();}catch(error){el('error').textContent=error.message;}finally{busy=false;render();}}
+el('collect').onclick=()=>perform(()=>api('collect',{}));el('sync').onclick=()=>perform(()=>api('sync',{}));el('refresh').onclick=()=>perform(refresh);el('search').oninput=render;
+for(const [id,decision] of [['approve','approved'],['hold','held']])el(id).onclick=()=>perform(async()=>{const ids=[...document.querySelectorAll('#items input:checked')].map(n=>n.value);if(!ids.length)throw Error('候補にチェックを入れてください');if(decision==='approved'&&!confirm('公式リンクで商品名・JAN・仕様を確認しましたか？選択した候補を承認します。'))return;await api('decision',{ids,decision});});
+el('export').onclick=()=>perform(async()=>{const response=await api('export',{});const blob=await response.blob();const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download=(response.headers.get('Content-Disposition')||'').match(/filename="([^"]+)"/)?.[1]||'tsumipla-dictionary.zip';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);});
+el('import').onclick=()=>el('file').click();el('file').onchange=()=>perform(async()=>{const file=el('file').files[0];if(!file)return;if(file.size>2000000)throw Error('候補ファイルが大きすぎます');await api('import',JSON.parse(await file.text()));el('file').value='';});
+refresh().catch(e=>el('error').textContent=e.message);setInterval(()=>{if(state?.job.busy&&!busy)refresh().catch(e=>el('error').textContent=e.message);},3000);
