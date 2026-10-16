@@ -95,6 +95,13 @@ class OperationsTests(unittest.TestCase):
         report['items'][0]['name'] += '改変'
         with self.assertRaises(ValueError): ops.build_release(base, raw, report, [key])
 
+    def test_decisions_do_not_carry_across_base_versions(self):
+        _, _, report = self.report(); key = report['items'][0]['id']
+        decisions = {ops.decision_key(report, key): 'approved'}
+        self.assertEqual({key: 'approved'}, ops.scoped_decisions(report, decisions))
+        changed = dict(report, base_sha256='new-base')
+        self.assertEqual({}, ops.scoped_decisions(changed, decisions))
+
     def test_unconfirmed_cannot_be_exported(self):
         base, raw, report = self.report(manual_html='検索結果 0件')
         with self.assertRaises(ValueError): ops.build_release(base, raw, report, [report['items'][0]['id']])
