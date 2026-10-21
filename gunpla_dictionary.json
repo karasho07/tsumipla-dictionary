@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "dictionary_version": "2026-10-16.1",
+  "dictionary_version": "2026-10-21.1",
   "products": [
     {
       "product_id": "hg-import-v1-2",
@@ -17678,6 +17678,26 @@
       "image_url": null,
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4956",
       "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4918",
+      "name": "ガンダムデカールDX 10",
+      "grade": null,
+      "scale": null,
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4918",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4557",
+      "name": "オプションパーツセット ガンプラ 20 (ライドオンセット)",
+      "grade": null,
+      "scale": null,
+      "release_date": "2026-02-21",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4557",
+      "source_row": null
     }
   ],
   "barcodes": {
@@ -35194,6 +35214,22 @@
       "matched_name": "ガンダムデカールNo.143 HG 1/144 機動戦士ガンダム 閃光のハサウェイ汎用②",
       "verified_at": "2026-10-16",
       "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102725301000&grp_id=5325"
+    },
+    "4573102621917": {
+      "product_id": "manual-auto-4918",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102621917",
+      "matched_name": "ガンダムデカールDX 10",
+      "verified_at": "2026-10-21",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102621917000&grp_id=5325"
+    },
+    "4573102720283": {
+      "product_id": "manual-auto-4557",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720283",
+      "matched_name": "オプションパーツセット ガンプラ 20 (ライドオンセット)",
+      "verified_at": "2026-10-21",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102720283000&grp_id=5325"
     }
   }
 }
