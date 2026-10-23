@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "base_sha256": "ac017f556c2c598ed5c1736ed5b5ba3ded6c881eddff2add27a3e1c89e07c057",
-  "base_version": "2026-10-16.1",
-  "collected_at": "2026-10-20T23:52:03.696404+00:00",
+  "base_sha256": "21fe9bdb8b9eebf8db7c2ad2c9b22bace28bf7168488e6d310043af945e4997c",
+  "base_version": "2026-10-21.1",
+  "collected_at": "2026-10-22T23:59:27.064204+00:00",
   "source_url": "https://www.bandaispirits.co.jp/products/search/result.php?search=true&category=1&sort=salesdate&order=decs&dsp_cnt=60",
   "items": [
     {
@@ -12,9 +12,9 @@
       "listed_release_date": "2026-01-31",
       "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720153",
       "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
       "kind": "JAN追加",
-      "id": "b06bfc6c277a3b44411210b2"
+      "id": "4f128332b95258a1c7da264f"
     },
     {
       "jan": "4573102720146",
@@ -23,9 +23,9 @@
       "listed_release_date": "2026-01-31",
       "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720146",
       "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
       "kind": "JAN追加",
-      "id": "85c6d54d2862597f096e6bba"
+      "id": "5f3e4573f81b2ae578700590"
     },
     {
       "jan": "4573102720160",
@@ -34,9 +34,75 @@
       "listed_release_date": "2026-01-31",
       "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720160",
       "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
       "kind": "JAN追加",
-      "id": "2a5f09762b30f97f33832900"
+      "id": "c57b5f2f13c8993223c15a3a"
+    },
+    {
+      "jan": "4573102692085",
+      "listed_name": "HG 1/144 ガンダム7号機",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102692085000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102692085",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "b585b490772da663f1e12d79"
+    },
+    {
+      "jan": "4573102692092",
+      "listed_name": "HG 1/144 ガンダムグリープ",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102692092000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102692092",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "990a8efbecca8ea7f8afe8a3"
+    },
+    {
+      "jan": "4573102691859",
+      "listed_name": "HG 1/144 マンダラガンダム",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102691859000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102691859",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "a4c758c792face62f53d5be8"
+    },
+    {
+      "jan": "4573102699008",
+      "listed_name": "MG 1/100 ガンダムアストレイミラージュフレーム セカンドイシュー",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102699008000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102699008",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "6f1e67e9552eae5323248e0b"
+    },
+    {
+      "jan": "4573102691729",
+      "listed_name": "HG 1/144 ジム・スループ",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102691729000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102691729",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "6dfacd5c8662a37a94ce7bd8"
+    },
+    {
+      "jan": "4573102688804",
+      "listed_name": "RG 1/144 G-3ガンダム Ver.2.0",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102688804000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102688804",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "26f3472a876f56837ec220af"
     },
     {
       "jan": "4573102688767",
@@ -45,9 +111,9 @@
       "listed_release_date": "2025-09-27",
       "source_url": "https://manual.bandai-hobby.net/?freeword=4573102688767",
       "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
       "kind": "JAN追加",
-      "id": "0d52c5cb0e75ed37d1e2e7bd"
+      "id": "b5326ba8b07b7171721da121"
     },
     {
       "jan": "4573102688774",
@@ -56,9 +122,9 @@
       "listed_release_date": "2025-09-27",
       "source_url": "https://manual.bandai-hobby.net/?freeword=4573102688774",
       "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
       "kind": "JAN追加",
-      "id": "6f86ffb717577e50edb35a56"
+      "id": "81b8f8cae9670f61bedfb345"
     },
     {
       "jan": "4573102686916",
@@ -67,9 +133,9 @@
       "listed_release_date": "2025-09-20",
       "source_url": "https://manual.bandai-hobby.net/?freeword=4573102686916",
       "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
       "kind": "JAN追加",
-      "id": "5ab513874c19df641bbad989"
+      "id": "96cc7d2b7f64d307df759704"
     },
     {
       "jan": "4573102686923",
@@ -78,9 +144,31 @@
       "listed_release_date": "2025-09-20",
       "source_url": "https://manual.bandai-hobby.net/?freeword=4573102686923",
       "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
       "kind": "JAN追加",
-      "id": "cdac0145d819e0c212708559"
+      "id": "88433d36f61b71cffea8cd13"
+    },
+    {
+      "jan": "4573102688590",
+      "listed_name": "HG 1/144 デスティニーガンダムSpecII[最終決戦イメージカラー]",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102688590000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102688590",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "9cd000232bbcdc3be3b5ab0c"
+    },
+    {
+      "jan": "4573102688583",
+      "listed_name": "MG 1/100 ブレイズザクファントム (ディアッカ・エルスマン専用機)",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102688583000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102688583",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "470274bcec1f243f498334dd"
     },
     {
       "jan": "4573102685506",
@@ -89,12 +177,9 @@
       "listed_release_date": null,
       "source_url": "https://manual.bandai-hobby.net/?freeword=4573102685506",
       "eligible": false,
-      "reason": "商品一覧と説明書の商品名が一致しません",
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
       "kind": "JAN追加",
-      "name": "RG 1/144 MS-06S ザクII [初音ミクVer.]",
-      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/3336",
-      "release_date": null,
-      "id": "4508468ae30bbfd16455218b"
+      "id": "3dc14e24f65a87647d073931"
     },
     {
       "jan": "4580886844760",
@@ -103,9 +188,31 @@
       "listed_release_date": null,
       "source_url": "https://manual.bandai-hobby.net/?freeword=4580886844760",
       "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
       "kind": "JAN追加",
-      "id": "4dd57cd4e811496a31864e02"
+      "id": "d58900b1070eee9b9624b51e"
+    },
+    {
+      "jan": "4573102743145",
+      "listed_name": "MG 1/100 ブレイズザクファントム(ハイネ・ヴェステンフルス専用機)",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102743145000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102743145",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "1464caeb79416d168269ffcb"
+    },
+    {
+      "jan": "4573102725721",
+      "listed_name": "RG 1/144 ガンダムエクシア リペアIV",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102725721000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102725721",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "54b726eed7dbf7d8bd04fa9f"
     },
     {
       "jan": "4573102725691",
@@ -114,9 +221,31 @@
       "listed_release_date": null,
       "source_url": "https://manual.bandai-hobby.net/?freeword=4573102725691",
       "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
       "kind": "JAN追加",
-      "id": "c2d35dd3b67f2df2c897b9f8"
+      "id": "7a01e48c20cba3856219d9dd"
+    },
+    {
+      "jan": "4573102720610",
+      "listed_name": "HG ガンダムTR-1[ヘイズル改]イカロス・ユニット装備(ADVANCE OF Z ティターンズの旗のもとに)",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102720610000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720610",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "e5a8e4bd85953d1e039696a1"
+    },
+    {
+      "jan": "4573102692108",
+      "listed_name": "MG 1/100 F90IIIY クラスターガンダム用 ミッションパック Xタイプ",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102692108000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102692108",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "3765dc9504917e72bb615439"
     },
     {
       "jan": "4573102621917",
@@ -124,14 +253,21 @@
       "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102621917000&grp_id=5325",
       "listed_release_date": null,
       "source_url": "https://manual.bandai-hobby.net/?freeword=4573102621917",
-      "eligible": true,
-      "reason": "公式説明書の単一結果と商品名を照合済み。運営者の確認待ち",
-      "kind": "JAN追加",
-      "name": "ガンダムデカールDX 10",
-      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4918",
-      "release_date": null,
-      "target_product_id": null,
-      "id": "2bf0e86bbda2233b3b593255"
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "6c6cfffa5978df562983098b"
+    },
+    {
+      "jan": "4573102720535",
+      "listed_name": "MG 1/100 ガンダムバルバトスルプス用 拡張パーツセット",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102720535000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720535",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "83f21a7cc807dc2ae5afa572"
     },
     {
       "jan": "4573102656247",
@@ -140,24 +276,9 @@
       "listed_release_date": "2026-02-28",
       "source_url": "https://manual.bandai-hobby.net/?freeword=4573102656247",
       "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
       "kind": "JAN追加",
-      "id": "d68585c31f07c1cb07b2cc89"
-    },
-    {
-      "jan": "4573102720283",
-      "listed_name": "オプションパーツセット ガンプラ 20 (ライドオンセット)",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102720283000&grp_id=5325",
-      "listed_release_date": "2026-02-21",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720283",
-      "eligible": true,
-      "reason": "公式説明書の単一結果と商品名を照合済み。運営者の確認待ち",
-      "kind": "JAN追加",
-      "name": "オプションパーツセット ガンプラ 20 (ライドオンセット)",
-      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4557",
-      "release_date": "2026-02-21",
-      "target_product_id": null,
-      "id": "03bb3c8fdd3f06173866ecef"
+      "id": "e08736dbcad17a336d854c9b"
     },
     {
       "jan": "4573102720177",
@@ -166,13 +287,118 @@
       "listed_release_date": "2026-01-31",
       "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720177",
       "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
       "kind": "JAN追加",
-      "id": "53294af93f3f0dbd85bf0af3"
+      "id": "f82d14fed8cadeeeb47f79e3"
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "jan": "4573102720153",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102720146",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102720160",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102692085",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102692092",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102691859",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102699008",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102691729",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102688804",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102688767",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102688774",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102686916",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102686923",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102688590",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102688583",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102685506",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4580886844760",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102743145",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102725721",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102725691",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102720610",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102692108",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102621917",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102720535",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102656247",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102720177",
+      "error": "公式説明書の検索結果を解析できません"
+    }
+  ],
   "scanned": 60,
-  "already_known": 46,
+  "already_known": 34,
   "remaining": 0
 }
