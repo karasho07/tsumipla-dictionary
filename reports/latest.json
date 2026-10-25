@@ -2,9 +2,119 @@
   "schema_version": 1,
   "base_sha256": "21fe9bdb8b9eebf8db7c2ad2c9b22bace28bf7168488e6d310043af945e4997c",
   "base_version": "2026-10-21.1",
-  "collected_at": "2026-10-24T23:11:54.740144+00:00",
+  "collected_at": "2026-10-25T23:15:11.853300+00:00",
   "source_url": "https://www.bandaispirits.co.jp/products/search/result.php?search=true&category=1&sort=salesdate&order=decs&dsp_cnt=60",
   "items": [
+    {
+      "jan": "4580886844760",
+      "listed_name": "HG 1/144 ハイドラガンダム",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4580886844760000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4580886844760",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "JAN追加",
+      "id": "d58900b1070eee9b9624b51e"
+    },
+    {
+      "jan": "4573102743145",
+      "listed_name": "MG 1/100 ブレイズザクファントム(ハイネ・ヴェステンフルス専用機)",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102743145000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102743145",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "1464caeb79416d168269ffcb"
+    },
+    {
+      "jan": "4573102725721",
+      "listed_name": "RG 1/144 ガンダムエクシア リペアIV",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102725721000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102725721",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "54b726eed7dbf7d8bd04fa9f"
+    },
+    {
+      "jan": "4573102725691",
+      "listed_name": "RG 1/144 RX-78-2 ガンダム Ver.2.0 [初音ミクVer.]",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102725691000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102725691",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "JAN追加",
+      "id": "7a01e48c20cba3856219d9dd"
+    },
+    {
+      "jan": "4573102720610",
+      "listed_name": "HG ガンダムTR-1[ヘイズル改]イカロス・ユニット装備(ADVANCE OF Z ティターンズの旗のもとに)",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102720610000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720610",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "e5a8e4bd85953d1e039696a1"
+    },
+    {
+      "jan": "4573102692108",
+      "listed_name": "MG 1/100 F90IIIY クラスターガンダム用 ミッションパック Xタイプ",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102692108000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102692108",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "3765dc9504917e72bb615439"
+    },
+    {
+      "jan": "4573102621917",
+      "listed_name": "ガンダムデカールDX 10",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102621917000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102621917",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "6c6cfffa5978df562983098b"
+    },
+    {
+      "jan": "4573102720535",
+      "listed_name": "MG 1/100 ガンダムバルバトスルプス用 拡張パーツセット",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102720535000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720535",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "発売日補完",
+      "id": "83f21a7cc807dc2ae5afa572"
+    },
+    {
+      "jan": "4573102656247",
+      "listed_name": "SDガンダム EXスタンダード ガンダムバルバトス",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102656247000&grp_id=5325",
+      "listed_release_date": "2026-02-28",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102656247",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "JAN追加",
+      "id": "e08736dbcad17a336d854c9b"
+    },
+    {
+      "jan": "4573102720177",
+      "listed_name": "エールストプラくん 立体ラバーマスコットキーチェーン",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102720177000&grp_id=5325",
+      "listed_release_date": "2026-01-31",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720177",
+      "eligible": false,
+      "reason": "収集エラー：公式説明書の検索結果を解析できません",
+      "kind": "JAN追加",
+      "id": "f82d14fed8cadeeeb47f79e3"
+    },
     {
       "jan": "4573102720153",
       "listed_name": "ジオプラくん 立体ラバーマスコットキーチェーン",
@@ -180,119 +290,49 @@
       "reason": "収集エラー：公式説明書の検索結果を解析できません",
       "kind": "JAN追加",
       "id": "3dc14e24f65a87647d073931"
-    },
-    {
-      "jan": "4580886844760",
-      "listed_name": "HG 1/144 ハイドラガンダム",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4580886844760000&grp_id=5325",
-      "listed_release_date": null,
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4580886844760",
-      "eligible": false,
-      "reason": "収集エラー：公式説明書の検索結果を解析できません",
-      "kind": "JAN追加",
-      "id": "d58900b1070eee9b9624b51e"
-    },
-    {
-      "jan": "4573102743145",
-      "listed_name": "MG 1/100 ブレイズザクファントム(ハイネ・ヴェステンフルス専用機)",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102743145000&grp_id=5325",
-      "listed_release_date": null,
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102743145",
-      "eligible": false,
-      "reason": "収集エラー：公式説明書の検索結果を解析できません",
-      "kind": "発売日補完",
-      "id": "1464caeb79416d168269ffcb"
-    },
-    {
-      "jan": "4573102725721",
-      "listed_name": "RG 1/144 ガンダムエクシア リペアIV",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102725721000&grp_id=5325",
-      "listed_release_date": null,
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102725721",
-      "eligible": false,
-      "reason": "収集エラー：公式説明書の検索結果を解析できません",
-      "kind": "発売日補完",
-      "id": "54b726eed7dbf7d8bd04fa9f"
-    },
-    {
-      "jan": "4573102725691",
-      "listed_name": "RG 1/144 RX-78-2 ガンダム Ver.2.0 [初音ミクVer.]",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102725691000&grp_id=5325",
-      "listed_release_date": null,
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102725691",
-      "eligible": false,
-      "reason": "収集エラー：公式説明書の検索結果を解析できません",
-      "kind": "JAN追加",
-      "id": "7a01e48c20cba3856219d9dd"
-    },
-    {
-      "jan": "4573102720610",
-      "listed_name": "HG ガンダムTR-1[ヘイズル改]イカロス・ユニット装備(ADVANCE OF Z ティターンズの旗のもとに)",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102720610000&grp_id=5325",
-      "listed_release_date": null,
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720610",
-      "eligible": false,
-      "reason": "収集エラー：公式説明書の検索結果を解析できません",
-      "kind": "発売日補完",
-      "id": "e5a8e4bd85953d1e039696a1"
-    },
-    {
-      "jan": "4573102692108",
-      "listed_name": "MG 1/100 F90IIIY クラスターガンダム用 ミッションパック Xタイプ",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102692108000&grp_id=5325",
-      "listed_release_date": null,
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102692108",
-      "eligible": false,
-      "reason": "収集エラー：公式説明書の検索結果を解析できません",
-      "kind": "発売日補完",
-      "id": "3765dc9504917e72bb615439"
-    },
-    {
-      "jan": "4573102621917",
-      "listed_name": "ガンダムデカールDX 10",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102621917000&grp_id=5325",
-      "listed_release_date": null,
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102621917",
-      "eligible": false,
-      "reason": "収集エラー：公式説明書の検索結果を解析できません",
-      "kind": "発売日補完",
-      "id": "6c6cfffa5978df562983098b"
-    },
-    {
-      "jan": "4573102720535",
-      "listed_name": "MG 1/100 ガンダムバルバトスルプス用 拡張パーツセット",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102720535000&grp_id=5325",
-      "listed_release_date": null,
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720535",
-      "eligible": false,
-      "reason": "収集エラー：公式説明書の検索結果を解析できません",
-      "kind": "発売日補完",
-      "id": "83f21a7cc807dc2ae5afa572"
-    },
-    {
-      "jan": "4573102656247",
-      "listed_name": "SDガンダム EXスタンダード ガンダムバルバトス",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102656247000&grp_id=5325",
-      "listed_release_date": "2026-02-28",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102656247",
-      "eligible": false,
-      "reason": "収集エラー：公式説明書の検索結果を解析できません",
-      "kind": "JAN追加",
-      "id": "e08736dbcad17a336d854c9b"
-    },
-    {
-      "jan": "4573102720177",
-      "listed_name": "エールストプラくん 立体ラバーマスコットキーチェーン",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102720177000&grp_id=5325",
-      "listed_release_date": "2026-01-31",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720177",
-      "eligible": false,
-      "reason": "収集エラー：公式説明書の検索結果を解析できません",
-      "kind": "JAN追加",
-      "id": "f82d14fed8cadeeeb47f79e3"
     }
   ],
   "errors": [
+    {
+      "jan": "4580886844760",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102743145",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102725721",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102725691",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102720610",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102692108",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102621917",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102720535",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102656247",
+      "error": "公式説明書の検索結果を解析できません"
+    },
+    {
+      "jan": "4573102720177",
+      "error": "公式説明書の検索結果を解析できません"
+    },
     {
       "jan": "4573102720153",
       "error": "公式説明書の検索結果を解析できません"
@@ -355,46 +395,6 @@
     },
     {
       "jan": "4573102685506",
-      "error": "公式説明書の検索結果を解析できません"
-    },
-    {
-      "jan": "4580886844760",
-      "error": "公式説明書の検索結果を解析できません"
-    },
-    {
-      "jan": "4573102743145",
-      "error": "公式説明書の検索結果を解析できません"
-    },
-    {
-      "jan": "4573102725721",
-      "error": "公式説明書の検索結果を解析できません"
-    },
-    {
-      "jan": "4573102725691",
-      "error": "公式説明書の検索結果を解析できません"
-    },
-    {
-      "jan": "4573102720610",
-      "error": "公式説明書の検索結果を解析できません"
-    },
-    {
-      "jan": "4573102692108",
-      "error": "公式説明書の検索結果を解析できません"
-    },
-    {
-      "jan": "4573102621917",
-      "error": "公式説明書の検索結果を解析できません"
-    },
-    {
-      "jan": "4573102720535",
-      "error": "公式説明書の検索結果を解析できません"
-    },
-    {
-      "jan": "4573102656247",
-      "error": "公式説明書の検索結果を解析できません"
-    },
-    {
-      "jan": "4573102720177",
       "error": "公式説明書の検索結果を解析できません"
     }
   ],
