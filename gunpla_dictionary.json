@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "dictionary_version": "2026-10-21.1",
+  "dictionary_version": "2026-10-29.1",
   "products": [
     {
       "product_id": "hg-import-v1-2",
@@ -1769,7 +1769,7 @@
       "name": "HG 1/144 インフィニットジャスティスガンダム[クリアカラー]",
       "grade": "HG",
       "scale": "1/144",
-      "release_date": null,
+      "release_date": "2005-08-21",
       "image_url": null,
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/168",
       "source_row": "178"
@@ -2279,7 +2279,7 @@
       "name": "HG 1/144 シナンジュ・スタイン (ナラティブVer.) [クリアカラー]",
       "grade": "HG",
       "scale": "1/144",
-      "release_date": null,
+      "release_date": "2019-03-29",
       "image_url": null,
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4628",
       "source_row": "229"
@@ -2449,7 +2449,7 @@
       "name": "HG 1/144　ユニコーンガンダム3号機 フェネクス (デストロイモード) (ナラティブVer.) [クリアカラー]",
       "grade": "HG",
       "scale": "1/144",
-      "release_date": null,
+      "release_date": "2019-04-06",
       "image_url": null,
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4631",
       "source_row": "246"
@@ -3669,7 +3669,7 @@
       "name": "HGUC 1/144  ガンダム（２１ｓｔＣＥＮＴＵＲＹ ＲＥＡＬ ＴＹＰＥ Ｖｅｒ．）",
       "grade": "HGUC",
       "scale": "1/144",
-      "release_date": null,
+      "release_date": "2021-01-08",
       "image_url": null,
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4324",
       "source_row": "368"
@@ -3679,7 +3679,7 @@
       "name": "HGUC 1/144 グフ（２１ｓｔＣＥＮＴＵＲＹ ＲＥＡＬ ＴＹＰＥ Ｖｅｒ．）",
       "grade": "HGUC",
       "scale": "1/144",
-      "release_date": null,
+      "release_date": "2019-08-09",
       "image_url": null,
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4364",
       "source_row": "369"
@@ -6739,7 +6739,7 @@
       "name": "HG 1/144 モビルバクゥ",
       "grade": "HG",
       "scale": "1/144",
-      "release_date": null,
+      "release_date": "2007-01-20",
       "image_url": null,
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/185",
       "source_row": "675"
@@ -6749,7 +6749,7 @@
       "name": "HG 1/144 スターゲイザーガンダム",
       "grade": "HG",
       "scale": "1/144",
-      "release_date": null,
+      "release_date": "2006-11-24",
       "image_url": null,
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/184",
       "source_row": "676"
@@ -6789,7 +6789,7 @@
       "name": "HG 1/144 ブルデュエルガンダム",
       "grade": "HG",
       "scale": "1/144",
-      "release_date": null,
+      "release_date": "2006-09-09",
       "image_url": null,
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/899",
       "source_row": "680"
@@ -6809,7 +6809,7 @@
       "name": "HG 1/144 ヴェルデバスターガンダム",
       "grade": "HG",
       "scale": "1/144",
-      "release_date": null,
+      "release_date": "2006-08-09",
       "image_url": null,
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/180",
       "source_row": "682"
@@ -6829,7 +6829,7 @@
       "name": "HG 1/144 ストライクノワールガンダム",
       "grade": "HG",
       "scale": "1/144",
-      "release_date": null,
+      "release_date": "2006-06-30",
       "image_url": null,
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/179",
       "source_row": "684"
@@ -6919,7 +6919,7 @@
       "name": "HG 1/144 ムラサメ(アンドリュー・バルトフェルド専用機)",
       "grade": "HG",
       "scale": "1/144",
-      "release_date": null,
+      "release_date": "2005-12-17",
       "image_url": null,
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/175",
       "source_row": "693"
@@ -17697,6 +17697,636 @@
       "release_date": "2026-02-21",
       "image_url": null,
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4557",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-993",
+      "name": "HG メカニクス 1/550 ヴァルヴァロ",
+      "grade": "HG",
+      "scale": "1/550",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/993",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-159",
+      "name": "HG 1/144 フォースインパルスガンダム",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/159",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-164",
+      "name": "HG 1/144 ソードインパルスガンダム",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/164",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-891",
+      "name": "HG 1/144 ザクウォーリア(ライブコンサートバージョン)",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/891",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-893",
+      "name": "HG 1/144 ストライクフリーダムガンダム",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2005-09-30",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/893",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-173",
+      "name": "HG 1/144 レジェンドガンダム",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2005-10-21",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/173",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-997",
+      "name": "HGUC 1/144 ザク地上戦セット",
+      "grade": "HGUC",
+      "scale": "1/144",
+      "release_date": "2009-02-14",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/997",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-689",
+      "name": "HG 1/144 ガンプラスターターセットVol.2 ガンダム+ガンダムマーカー",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2011-03-26",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/689",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-330",
+      "name": "HG 1/144 R01 エールストライクガンダム",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2011-11-19",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/330",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-331",
+      "name": "HG 1/144 R02 デュエルガンダム アサルトシュラウド",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2011-11-19",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/331",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-7",
+      "name": "HG 1/144 ガンダムアストレイゴールドフレーム天（アマツ）ミナ",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2013-09-21",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/7",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-724",
+      "name": "HGBC GPベース",
+      "grade": "HGBC",
+      "scale": null,
+      "release_date": "2013-11-09",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/724",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-2377",
+      "name": "ＨＧ 1/144 モビルワーカー MW-01 01式 後期型(ランバ・ラル機)",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2377",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4393",
+      "name": "HG 1/144 ガンダムベース限定 すーぱーふみな [ガンダムベースカラー]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4393",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4418",
+      "name": "HG 1/144 ガンダムベース限定 ユニコーンガンダム ユニコーンモード[メタリックグロスインジェクション]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4418",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4395",
+      "name": "HG 1/144 ガンダムベース限定 ベアッガイIII [トリコロールペイント]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4395",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4425",
+      "name": "HG 1/144 ガンダムベース限定 ういにんぐふみな [ガンダムベースカラー]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4425",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4426",
+      "name": "HG 1/144 ガンダムベース限定 νガンダムvsサザビー(宿命の対決セット)[スペシャルコーティング]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4426",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4390",
+      "name": "HG 1/144 ガンダムベース限定 ユニコーンガンダム ペルフェクティビリティ(デストロイモード)",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4390",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4626",
+      "name": "HG 1/144 ガンダムベース限定 百式[ゴールドコーティング]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4626",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4429",
+      "name": "HG 1/144 ガンダムベース限定 ブルーディスティニー1号機“EXAM”[メタリックグロスインジェクション]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2019-01-12",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4429",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4428",
+      "name": "HG 1/144 ガンダムベース限定 イフリート改[メタリックグロスインジェクション]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4428",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4322",
+      "name": "HGBD 1/144 ガンダムベース限定 ガンダムダブルオーダイバー［トランザムクリア］",
+      "grade": "HGBD",
+      "scale": "1/144",
+      "release_date": "2019-07-12",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4322",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4432",
+      "name": "HGBD ガンダムベース限定 モビルドールサラ(ミラーミッションVer.)",
+      "grade": "HGBD",
+      "scale": null,
+      "release_date": "2019-09-21",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4432",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4632",
+      "name": "HG 1/144 ガンダムベース限定 ナラティブガンダム C装備[チタニウムフィニッシュ]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2019-11-01",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4632",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4408",
+      "name": "HG 1/144 ガンダムベース限定 ナラティブガンダム B装備",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2019-12-20",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4408",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-84",
+      "name": "HGBD:R モビルドールメイ",
+      "grade": "HGBD",
+      "scale": null,
+      "release_date": "2020-01-25",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/84",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-2545",
+      "name": "ＨＧ 1/144 ガンダムＴＲ-６［ハイゼンスレイII・ラー］（ADVANCE OF Z ティターンズの旗のもとに）",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2545",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4464",
+      "name": "HG 1/144 ガンダムベース限定 ザクII TYPE C-6/R6 [ペインティングモデル]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2020-05-30",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4464",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-2581",
+      "name": "ＨＧ 1/144 ガンダムＴＲ-１ ［ハイゼンスレイ］（ADVANCE OF Z ティターンズの旗のもとに）",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2581",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-2582",
+      "name": "ＨＧ 1/144 ガンダムＴＲ-６ ［キハールII］（ADVANCE OF Z ティターンズの旗のもとに）",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2582",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4462",
+      "name": "HG 1/144 ガンダムベース限定 ド・ダイ改(21st CENTURY REAL TYPE Ver.)",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2020-06-06",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4462",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4635",
+      "name": "HG 1/144 ガンダムベース限定 デスティニーガンダム [スペシャルコーティング]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2020-07-10",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4635",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4636",
+      "name": "HG 1/144 ガンダムベース限定 ペイルライダー(陸戦重装備仕様)[クリアカラー]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2020-09-11",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4636",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4476",
+      "name": "HG ガンダムベース限定 モビルドールメイ[ガンダムベースカラー]",
+      "grade": "HG",
+      "scale": null,
+      "release_date": "2020-09-11",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4476",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4637",
+      "name": "HG 1/144 ガンダムベース限定 ガンダムTR-6[ウーンドウォート][クリアカラー]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4637",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-2607",
+      "name": "ＨＧ 1/144 ガンダムTR-1［ハイゼンスレイ・ラーII］（ADVANCE OF Z ティターンズの旗のもとに）",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2607",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-2394",
+      "name": "ＨＧ 1/144 クルーザーモード用ブースター拡張セット(実戦配備カラー)（ADVANCE OF Z ティターンズの旗のもとに）",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2394",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-2398",
+      "name": "ＨＧ 1/144 ガンダムTR-1 次世代量産機（実戦配備カラー）（ADVANCE OF Z ティターンズの旗のもとに）",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2398",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-2393",
+      "name": "ＨＧ 1/144 クルーザーモード用ブースター拡張セット（ADVANCE OF Z ティターンズの旗のもとに）",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2393",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4482",
+      "name": "HG 1/144 ガンダムベース限定 RX-78-2 ガンダム [BEYOND GLOBAL] [ガンダムベースカラー]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2021-03-12",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4482",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4472",
+      "name": "HG 1/144 ガンダムベース限定 コアガンダム&コアガンダムII&アルスコアガンダム[ロービジビリティVer.]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2021-05-14",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4472",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4485",
+      "name": "HG 1/144 ガンダムベース限定 ガンダムMk-II(21st CENTURY REAL TYPE Ver.)",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2021-06-21",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4485",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4505",
+      "name": "HG 1/144 ガンダムベース限定 フルアーマー・ガンダム VS サイコ・ザク セット(機動戦士ガンダム サンダーボルト10周年記念Ver.)",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2022-09-30",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4505",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4318",
+      "name": "HG 1/144 GUNDAM SIDE-F限定 ジェガン (ユウ・カジマ専用機)",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2022-10-08",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4318",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4492",
+      "name": "HG 1/144 ガンダムベース限定 ガンダムアストレイ レッドドラゴン",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2022-10-08",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4492",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4327",
+      "name": "HG 1/144 ガンダムベース限定 シャア専用ザクII(21stCENTURY REAL TYPE Ver.)",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2022-11-19",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4327",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4500",
+      "name": "HG 1/144 サイコ・ドーガ",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2022-12-19",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4500",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4510",
+      "name": "HG 1/144 GUNDAM SIDE-F限定 ギラ・ドーガ (ヴィンセント・グライスナー専用機)",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2023-01-21",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4510",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4503",
+      "name": "HG 1/144 ガンダムベース限定 ゼータガンダム[U.C.0088]/百式/ガンダムMk-II(エゥーゴ仕様)セット [グリプス戦役スペシャルカラー]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2023-04-22",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4503",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4508",
+      "name": "HG 1/144 ガンダムベース限定 ジム/ジムII/ジムIII セット",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2023-06-10",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4508",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4507",
+      "name": "HG 1/144 ガンダムベース限定 ムーンガンダム (ロング・ライフル装備)",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2023-06-10",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4507",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4319",
+      "name": "HG 1/144 GUNDAM SIDE-F限定 ジムIII (地球連邦軍仕様/ボッシュ・ウェラー専用機)",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2023-07-29",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4319",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4495",
+      "name": "HG ガンダムベース限定 TOLRO-800 -トロハチ-",
+      "grade": "HG",
+      "scale": null,
+      "release_date": "2023-08-05",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4495",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4497",
+      "name": "HG 1/144 ガンダムベース限定 コアガンダム＆コアガンダムII コアチェンジセット(リアルタイプカラー)",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2023-09-23",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4497",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4649",
+      "name": "HG 1/144 ガンダムベース限定 ビルドストライクギャラクシーコスモス [プラフスキーパーティクルクリア]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2023-10-07",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4649",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4509",
+      "name": "HG 1/144 ガンダムベース限定 ガンダムMk-II(ティターンズ仕様)(21st CENTURY REAL TYPE Ver.)",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2023-12-22",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4509",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-2489",
+      "name": "ＨＧ 1/144 高機動型ザク 地上用 (サンホ機)",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": null,
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/2489",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4521",
+      "name": "HG 1/144 ガンダムベース限定 ガンダムキャリバーン [クリアカラー]",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2024-07-27",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4521",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4511",
+      "name": "HG ガンダムベース限定 ドラケンE",
+      "grade": "HG",
+      "scale": null,
+      "release_date": "2024-08-24",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4511",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4487",
+      "name": "HG 1/144 ガンダムベース限定 ガンダムFSD (試作型ロングレンジ・ビームライフル装備)",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2024-10-12",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4487",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4359",
+      "name": "HG 1/144 ガンダムベース福岡限定 シナンジュ Ver.GSF",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2024-11-30",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4359",
+      "source_row": null
+    },
+    {
+      "product_id": "manual-auto-4360",
+      "name": "HG 1/144 ガンダムベース限定 ゼータガンダム[U.C.0088] (バイオセンサーイメージカラー)",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2025-04-19",
+      "image_url": null,
+      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4360",
       "source_row": null
     }
   ],
@@ -35230,6 +35860,894 @@
       "matched_name": "オプションパーツセット ガンプラ 20 (ライドオンセット)",
       "verified_at": "2026-10-21",
       "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102720283000&grp_id=5325"
+    },
+    "4543112040305": {
+      "product_id": "hg-import-v1-742",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112040305",
+      "matched_name": "HGUC 1/144 ガンダムV作戦セット",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112040305000&grp_id=5325"
+    },
+    "4543112118998": {
+      "product_id": "manual-auto-993",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112118998",
+      "matched_name": "HG メカニクス 1/550 ヴァルヴァロ",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112118998000&grp_id=5325"
+    },
+    "4543112204615": {
+      "product_id": "hg-import-v1-726",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112204615",
+      "matched_name": "HG 1/144 カラミティガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112204615000&grp_id=5325"
+    },
+    "4543112222466": {
+      "product_id": "hg-import-v1-724",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112222466",
+      "matched_name": "HG 1/144 フォビドゥンガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112222466000&grp_id=5325"
+    },
+    "4543112227133": {
+      "product_id": "hg-import-v1-723",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112227133",
+      "matched_name": "HG 1/144 レイダーガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112227133000&grp_id=5325"
+    },
+    "4543112241207": {
+      "product_id": "hg-import-v1-721",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112241207",
+      "matched_name": "HG 1/144 ガンダムアストレイ ブルーフレーム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112241207000&grp_id=5325"
+    },
+    "4543112249173": {
+      "product_id": "hg-import-v1-720",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112249173",
+      "matched_name": "HG 1/144 プロヴィデンスガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112249173000&grp_id=5325"
+    },
+    "4543112249180": {
+      "product_id": "hg-import-v1-717",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112249180",
+      "matched_name": "HG 1/144 ストライクルージュ＋I.W.S.P.",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112249180000&grp_id=5325"
+    },
+    "4543112253019": {
+      "product_id": "hg-import-v1-716",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112253019",
+      "matched_name": "HG 1/144 ミーティアユニット＋フリーダムガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112253019000&grp_id=5325"
+    },
+    "4543112253026": {
+      "product_id": "hg-import-v1-715",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112253026",
+      "matched_name": "HG 1/144 モビルジン (ミゲル・アイマン専用機)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112253026000&grp_id=5325"
+    },
+    "4543112256553": {
+      "product_id": "hg-import-v1-713",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112256553",
+      "matched_name": "HG 1/144 ジンハイマニューバ",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112256553000&grp_id=5325"
+    },
+    "4543112267955": {
+      "product_id": "hg-import-v1-712",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112267955",
+      "matched_name": "HG 1/144 ハイペリオンガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112267955000&grp_id=5325"
+    },
+    "4543112268020": {
+      "product_id": "hg-import-v1-710",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112268020",
+      "matched_name": "HG 1/144 シグーディープアームズ",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112268020000&grp_id=5325"
+    },
+    "4543112294555": {
+      "product_id": "hg-import-v1-707",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112294555",
+      "matched_name": "HG 1/144 ドレッドノートガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112294555000&grp_id=5325"
+    },
+    "4543112314147": {
+      "product_id": "manual-auto-159",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112314147",
+      "matched_name": "HG 1/144 フォースインパルスガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112314147000&grp_id=5325"
+    },
+    "4543112314222": {
+      "product_id": "hg-import-v1-704",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112314222",
+      "matched_name": "HG 1/144 カオスガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112314222000&grp_id=5325"
+    },
+    "4543112318732": {
+      "product_id": "hg-import-v1-703",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112318732",
+      "matched_name": "HG 1/144 ガイアガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112318732000&grp_id=5325"
+    },
+    "4543112321343": {
+      "product_id": "hg-import-v1-702",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112321343",
+      "matched_name": "HG 1/144 ガナーザクウォーリア（ルナマリア・ホーク専用機）",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112321343000&grp_id=5325"
+    },
+    "4543112321596": {
+      "product_id": "manual-auto-164",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112321596",
+      "matched_name": "HG 1/144 ソードインパルスガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112321596000&grp_id=5325"
+    },
+    "4543112339157": {
+      "product_id": "hg-import-v1-700",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112339157",
+      "matched_name": "HG 1/144 ガナーザクウォーリア",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112339157000&grp_id=5325"
+    },
+    "4543112321589": {
+      "product_id": "hg-import-v1-701",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112321589",
+      "matched_name": "HG 1/144 セイバーガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112321589000&grp_id=5325"
+    },
+    "4543112340948": {
+      "product_id": "manual-auto-891",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112340948",
+      "matched_name": "HG 1/144 ザクウォーリア(ライブコンサートバージョン)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112340948000&grp_id=5325"
+    },
+    "4543112341099": {
+      "product_id": "hg-import-v1-178",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112341099",
+      "matched_name": "HG 1/144 インフィニットジャスティスガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112341099000&grp_id=5325"
+    },
+    "4543112341136": {
+      "product_id": "manual-auto-893",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112341136",
+      "matched_name": "HG 1/144 ストライクフリーダムガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112341136000&grp_id=5325"
+    },
+    "4543112384140": {
+      "product_id": "manual-auto-173",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112384140",
+      "matched_name": "HG 1/144 レジェンドガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112384140000&grp_id=5325"
+    },
+    "4543112395955": {
+      "product_id": "hg-import-v1-693",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112395955",
+      "matched_name": "HG 1/144 ムラサメ(アンドリュー・バルトフェルド専用機)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112395955000&grp_id=5325"
+    },
+    "4543112410412": {
+      "product_id": "hg-import-v1-690",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112410412",
+      "matched_name": "HG 1/144 シラヌイアカツキガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112410412000&grp_id=5325"
+    },
+    "4543112419101": {
+      "product_id": "hg-import-v1-685",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112419101",
+      "matched_name": "HG 1/144 オオワシアカツキガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112419101000&grp_id=5325"
+    },
+    "4543112434241": {
+      "product_id": "hg-import-v1-684",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112434241",
+      "matched_name": "HG 1/144 ストライクノワールガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112434241000&grp_id=5325"
+    },
+    "4543112450746": {
+      "product_id": "hg-import-v1-682",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112450746",
+      "matched_name": "HG 1/144 ヴェルデバスターガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112450746000&grp_id=5325"
+    },
+    "4543112459381": {
+      "product_id": "hg-import-v1-680",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112459381",
+      "matched_name": "HG 1/144 ブルデュエルガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112459381000&grp_id=5325"
+    },
+    "4543112467355": {
+      "product_id": "hg-import-v1-677",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112467355",
+      "matched_name": "HG 1/144 ケルベロス・バクゥハウンド",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112467355000&grp_id=5325"
+    },
+    "4543112467485": {
+      "product_id": "hg-import-v1-676",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112467485",
+      "matched_name": "HG 1/144 スターゲイザーガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112467485000&grp_id=5325"
+    },
+    "4543112488282": {
+      "product_id": "hg-import-v1-675",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112488282",
+      "matched_name": "HG 1/144 モビルバクゥ",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112488282000&grp_id=5325"
+    },
+    "4543112537065": {
+      "product_id": "hg-import-v1-654",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112537065",
+      "matched_name": "HGUC 1/144 G3ガンダム＋シャア専用リックドムセット",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112537065000&grp_id=5325"
+    },
+    "4543112577320": {
+      "product_id": "manual-auto-997",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112577320",
+      "matched_name": "HGUC 1/144 ザク地上戦セット",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112577320000&grp_id=5325"
+    },
+    "4543112694812": {
+      "product_id": "manual-auto-689",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112694812",
+      "matched_name": "HG 1/144 ガンプラスターターセットVol.2 ガンダム+ガンダムマーカー",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112694812000&grp_id=5325"
+    },
+    "4543112733665": {
+      "product_id": "manual-auto-330",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112733665",
+      "matched_name": "HG 1/144 R01 エールストライクガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112733665000&grp_id=5325"
+    },
+    "4543112733672": {
+      "product_id": "manual-auto-331",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112733672",
+      "matched_name": "HG 1/144 R02 デュエルガンダム アサルトシュラウド",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112733672000&grp_id=5325"
+    },
+    "4543112733689": {
+      "product_id": "hg-import-v1-562",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112733689",
+      "matched_name": "HG 1/144 R03 バスターガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112733689000&grp_id=5325"
+    },
+    "4543112733696": {
+      "product_id": "hg-import-v1-561",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112733696",
+      "matched_name": "HG 1/144 R04 ブリッツガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112733696000&grp_id=5325"
+    },
+    "4543112733702": {
+      "product_id": "hg-import-v1-560",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112733702",
+      "matched_name": "HG 1/144 R05 イージスガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112733702000&grp_id=5325"
+    },
+    "4543112733719": {
+      "product_id": "hg-import-v1-563",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112733719",
+      "matched_name": "HG 1/144 R06 モビルジン",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112733719000&grp_id=5325"
+    },
+    "4543112739162": {
+      "product_id": "hg-import-v1-552",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112739162",
+      "matched_name": "HG 1/144 R07 モビルシグー",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112739162000&grp_id=5325"
+    },
+    "4543112739179": {
+      "product_id": "hg-import-v1-551",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112739179",
+      "matched_name": "HG 1/144 R08 カラミティガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112739179000&grp_id=5325"
+    },
+    "4543112739193": {
+      "product_id": "hg-import-v1-550",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112739193",
+      "matched_name": "HG 1/144 R10 レイダーガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112739193000&grp_id=5325"
+    },
+    "4543112753014": {
+      "product_id": "hg-import-v1-548",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112753014",
+      "matched_name": "HG 1/144 R11 ラゴゥ",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112753014000&grp_id=5325"
+    },
+    "4543112753021": {
+      "product_id": "hg-import-v1-547",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112753021",
+      "matched_name": "HG 1/144 R12 モビルバクゥ",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112753021000&grp_id=5325"
+    },
+    "4543112753038": {
+      "product_id": "hg-import-v1-546",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112753038",
+      "matched_name": "HG 1/144 R13 プロヴィデンスガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112753038000&grp_id=5325"
+    },
+    "4543112753052": {
+      "product_id": "hg-import-v1-544",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112753052",
+      "matched_name": "HG 1/144 R15 フリーダムガンダム",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112753052000&grp_id=5325"
+    },
+    "4543112757005": {
+      "product_id": "hg-import-v1-533",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112757005",
+      "matched_name": "HG 1/144 R16 M1アストレイ",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112757005000&grp_id=5325"
+    },
+    "4543112819420": {
+      "product_id": "hg-import-v1-509",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112819420",
+      "matched_name": "HG 1/144 ガンダムアストレイ ブルーフレーム セカンドL",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112819420000&grp_id=5325"
+    },
+    "4543112836687": {
+      "product_id": "hg-import-v1-505",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112836687",
+      "matched_name": "HG 1/144 ガンダムアストレイレッドフレーム（フライトユニット装備）",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112836687000&grp_id=5325"
+    },
+    "4543112836601": {
+      "product_id": "manual-auto-7",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112836601",
+      "matched_name": "HG 1/144 ガンダムアストレイゴールドフレーム天（アマツ）ミナ",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112836601000&grp_id=5325"
+    },
+    "4543112851567": {
+      "product_id": "manual-auto-724",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4543112851567",
+      "matched_name": "HGBC GPベース",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4543112851567000&grp_id=5325"
+    },
+    "4573102580184": {
+      "product_id": "manual-auto-2377",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102580184",
+      "matched_name": "ＨＧ 1/144 モビルワーカー MW-01 01式 後期型(ランバ・ラル機)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102580184000&grp_id=5325"
+    },
+    "4549660186373": {
+      "product_id": "manual-auto-4393",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4549660186373",
+      "matched_name": "HG 1/144 ガンダムベース限定 すーぱーふみな [ガンダムベースカラー]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4549660186373000&grp_id=5325"
+    },
+    "4549660210528": {
+      "product_id": "manual-auto-4418",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4549660210528",
+      "matched_name": "HG 1/144 ガンダムベース限定 ユニコーンガンダム ユニコーンモード[メタリックグロスインジェクション]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4549660210528000&grp_id=5325"
+    },
+    "4549660216414": {
+      "product_id": "manual-auto-4395",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4549660216414",
+      "matched_name": "HG 1/144 ガンダムベース限定 ベアッガイIII [トリコロールペイント]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4549660216414000&grp_id=5325"
+    },
+    "4549660257295": {
+      "product_id": "hg-import-v1-276",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4549660257295",
+      "matched_name": "HGBC ダイバーギア",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4549660257295000&grp_id=5325"
+    },
+    "4549660283140": {
+      "product_id": "manual-auto-4425",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4549660283140",
+      "matched_name": "HG 1/144 ガンダムベース限定 ういにんぐふみな [ガンダムベースカラー]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4549660283140000&grp_id=5325"
+    },
+    "4573102555229": {
+      "product_id": "manual-auto-4426",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102555229",
+      "matched_name": "HG 1/144 ガンダムベース限定 νガンダムvsサザビー(宿命の対決セット)[スペシャルコーティング]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102555229000&grp_id=5325"
+    },
+    "4573102555007": {
+      "product_id": "manual-auto-4390",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102555007",
+      "matched_name": "HG 1/144 ガンダムベース限定 ユニコーンガンダム ペルフェクティビリティ(デストロイモード)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102555007000&grp_id=5325"
+    },
+    "4573102555014": {
+      "product_id": "manual-auto-4626",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102555014",
+      "matched_name": "HG 1/144 ガンダムベース限定 百式[ゴールドコーティング]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102555014000&grp_id=5325"
+    },
+    "4573102555724": {
+      "product_id": "manual-auto-4429",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102555724",
+      "matched_name": "HG 1/144 ガンダムベース限定 ブルーディスティニー1号機“EXAM”[メタリックグロスインジェクション]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102555724000&grp_id=5325"
+    },
+    "4573102567444": {
+      "product_id": "manual-auto-4428",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102567444",
+      "matched_name": "HG 1/144 ガンダムベース限定 イフリート改[メタリックグロスインジェクション]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102567444000&grp_id=5325"
+    },
+    "4573102568069": {
+      "product_id": "hg-import-v1-229",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102568069",
+      "matched_name": "HG 1/144 ガンダムベース限定 シナンジュ・スタイン (ナラティブVer.) [エクストラフィニッシュ]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102568069000&grp_id=5325"
+    },
+    "4573102577634": {
+      "product_id": "hg-import-v1-246",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102577634",
+      "matched_name": "HG 1/144 ガンダムベース限定 ユニコーンガンダム3号機 フェネクス (デストロイモード) (ナラティブVer.)(最終決戦仕様)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102577634000&grp_id=5325"
+    },
+    "4573102578563": {
+      "product_id": "manual-auto-4322",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102578563",
+      "matched_name": "HGBD 1/144 ガンダムベース限定 ガンダムダブルオーダイバー［トランザムクリア］",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102578563000&grp_id=5325"
+    },
+    "4573102578679": {
+      "product_id": "hg-import-v1-369",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102578679",
+      "matched_name": "HG 1/144 ガンダムベース限定 グフ・フライトタイプ(21stCENTURY REAL TYPE Ver.)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102578679000&grp_id=5325"
+    },
+    "4573102587718": {
+      "product_id": "manual-auto-4432",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102587718",
+      "matched_name": "HGBD ガンダムベース限定 モビルドールサラ(ミラーミッションVer.)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102587718000&grp_id=5325"
+    },
+    "4573102589873": {
+      "product_id": "manual-auto-4632",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102589873",
+      "matched_name": "HG 1/144 ガンダムベース限定 ナラティブガンダム C装備[チタニウムフィニッシュ]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102589873000&grp_id=5325"
+    },
+    "4573102589880": {
+      "product_id": "manual-auto-4408",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102589880",
+      "matched_name": "HG 1/144 ガンダムベース限定 ナラティブガンダム B装備",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102589880000&grp_id=5325"
+    },
+    "4573102588685": {
+      "product_id": "manual-auto-84",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102588685",
+      "matched_name": "HGBD:R モビルドールメイ",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102588685000&grp_id=5325"
+    },
+    "4573102590640": {
+      "product_id": "manual-auto-2545",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102590640",
+      "matched_name": "ＨＧ 1/144 ガンダムＴＲ-６［ハイゼンスレイII・ラー］（ADVANCE OF Z ティターンズの旗のもとに）",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102590640000&grp_id=5325"
+    },
+    "4573102605634": {
+      "product_id": "manual-auto-4464",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102605634",
+      "matched_name": "HG 1/144 ガンダムベース限定 ザクII TYPE C-6/R6 [ペインティングモデル]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102605634000&grp_id=5325"
+    },
+    "4573102602343": {
+      "product_id": "manual-auto-2581",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102602343",
+      "matched_name": "ＨＧ 1/144 ガンダムＴＲ-１ ［ハイゼンスレイ］（ADVANCE OF Z ティターンズの旗のもとに）",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102602343000&grp_id=5325"
+    },
+    "4573102602350": {
+      "product_id": "manual-auto-2582",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102602350",
+      "matched_name": "ＨＧ 1/144 ガンダムＴＲ-６ ［キハールII］（ADVANCE OF Z ティターンズの旗のもとに）",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102602350000&grp_id=5325"
+    },
+    "4573102605603": {
+      "product_id": "manual-auto-4462",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102605603",
+      "matched_name": "HG 1/144 ガンダムベース限定 ド・ダイ改(21st CENTURY REAL TYPE Ver.)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102605603000&grp_id=5325"
+    },
+    "4573102605726": {
+      "product_id": "manual-auto-4635",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102605726",
+      "matched_name": "HG 1/144 ガンダムベース限定 デスティニーガンダム [スペシャルコーティング]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102605726000&grp_id=5325"
+    },
+    "4573102607133": {
+      "product_id": "manual-auto-4636",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102607133",
+      "matched_name": "HG 1/144 ガンダムベース限定 ペイルライダー(陸戦重装備仕様)[クリアカラー]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102607133000&grp_id=5325"
+    },
+    "4573102605733": {
+      "product_id": "manual-auto-4476",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102605733",
+      "matched_name": "HG ガンダムベース限定 モビルドールメイ[ガンダムベースカラー]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102605733000&grp_id=5325"
+    },
+    "4573102607140": {
+      "product_id": "manual-auto-4637",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102607140",
+      "matched_name": "HG 1/144 ガンダムベース限定 ガンダムTR-6[ウーンドウォート][クリアカラー]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102607140000&grp_id=5325"
+    },
+    "4573102610324": {
+      "product_id": "manual-auto-2607",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102610324",
+      "matched_name": "ＨＧ 1/144 ガンダムTR-1［ハイゼンスレイ・ラーII］（ADVANCE OF Z ティターンズの旗のもとに）",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102610324000&grp_id=5325"
+    },
+    "4573102613981": {
+      "product_id": "hg-import-v1-368",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102613981",
+      "matched_name": "HG 1/144 ガンダムベース限定 ザクII(21stCENTURY REAL TYPE Ver.)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102613981000&grp_id=5325"
+    },
+    "4573102612342": {
+      "product_id": "manual-auto-2394",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102612342",
+      "matched_name": "ＨＧ 1/144 クルーザーモード用ブースター拡張セット(実戦配備カラー)（ADVANCE OF Z ティターンズの旗のもとに）",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102612342000&grp_id=5325"
+    },
+    "4573102604705": {
+      "product_id": "manual-auto-2398",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102604705",
+      "matched_name": "ＨＧ 1/144 ガンダムTR-1 次世代量産機（実戦配備カラー）（ADVANCE OF Z ティターンズの旗のもとに）",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102604705000&grp_id=5325"
+    },
+    "4573102612335": {
+      "product_id": "manual-auto-2393",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102612335",
+      "matched_name": "ＨＧ 1/144 クルーザーモード用ブースター拡張セット（ADVANCE OF Z ティターンズの旗のもとに）",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102612335000&grp_id=5325"
+    },
+    "4573102613950": {
+      "product_id": "manual-auto-4482",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102613950",
+      "matched_name": "HG 1/144 ガンダムベース限定 RX-78-2 ガンダム [BEYOND GLOBAL] [ガンダムベースカラー]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102613950000&grp_id=5325"
+    },
+    "4573102617743": {
+      "product_id": "manual-auto-4472",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102617743",
+      "matched_name": "HG 1/144 ガンダムベース限定 コアガンダム&コアガンダムII&アルスコアガンダム[ロービジビリティVer.]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102617743000&grp_id=5325"
+    },
+    "4573102616449": {
+      "product_id": "manual-auto-4485",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102616449",
+      "matched_name": "HG 1/144 ガンダムベース限定 ガンダムMk-II(21st CENTURY REAL TYPE Ver.)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102616449000&grp_id=5325"
+    },
+    "4573102638212": {
+      "product_id": "manual-auto-4505",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102638212",
+      "matched_name": "HG 1/144 ガンダムベース限定 フルアーマー・ガンダム VS サイコ・ザク セット(機動戦士ガンダム サンダーボルト10周年記念Ver.)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102638212000&grp_id=5325"
+    },
+    "4573102634337": {
+      "product_id": "manual-auto-4318",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102634337",
+      "matched_name": "HG 1/144 GUNDAM SIDE-F限定 ジェガン (ユウ・カジマ専用機)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102634337000&grp_id=5325"
+    },
+    "4573102638052": {
+      "product_id": "manual-auto-4492",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102638052",
+      "matched_name": "HG 1/144 ガンダムベース限定 ガンダムアストレイ レッドドラゴン",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102638052000&grp_id=5325"
+    },
+    "4573102634146": {
+      "product_id": "manual-auto-4327",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102634146",
+      "matched_name": "HG 1/144 ガンダムベース限定 シャア専用ザクII(21stCENTURY REAL TYPE Ver.)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102634146000&grp_id=5325"
+    },
+    "4573102642417": {
+      "product_id": "manual-auto-4500",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102642417",
+      "matched_name": "HG 1/144 サイコ・ドーガ",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102642417000&grp_id=5325"
+    },
+    "4573102634344": {
+      "product_id": "manual-auto-4510",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102634344",
+      "matched_name": "HG 1/144 GUNDAM SIDE-F限定 ギラ・ドーガ (ヴィンセント・グライスナー専用機)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102634344000&grp_id=5325"
+    },
+    "4573102638106": {
+      "product_id": "manual-auto-4503",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102638106",
+      "matched_name": "HG 1/144 ガンダムベース限定 ゼータガンダム[U.C.0088]/百式/ガンダムMk-II(エゥーゴ仕様)セット [グリプス戦役スペシャルカラー]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102638106000&grp_id=5325"
+    },
+    "4573102653901": {
+      "product_id": "manual-auto-4508",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102653901",
+      "matched_name": "HG 1/144 ガンダムベース限定 ジム/ジムII/ジムIII セット",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102653901000&grp_id=5325"
+    },
+    "4573102653871": {
+      "product_id": "manual-auto-4507",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102653871",
+      "matched_name": "HG 1/144 ガンダムベース限定 ムーンガンダム (ロング・ライフル装備)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102653871000&grp_id=5325"
+    },
+    "4573102655929": {
+      "product_id": "manual-auto-4319",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102655929",
+      "matched_name": "HG 1/144 GUNDAM SIDE-F限定 ジムIII (地球連邦軍仕様/ボッシュ・ウェラー専用機)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102655929000&grp_id=5325"
+    },
+    "4573102654069": {
+      "product_id": "manual-auto-4495",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102654069",
+      "matched_name": "HG ガンダムベース限定 TOLRO-800 -トロハチ-",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102654069000&grp_id=5325"
+    },
+    "4573102654076": {
+      "product_id": "manual-auto-4497",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102654076",
+      "matched_name": "HG 1/144 ガンダムベース限定 コアガンダム＆コアガンダムII コアチェンジセット(リアルタイプカラー)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102654076000&grp_id=5325"
+    },
+    "4573102654083": {
+      "product_id": "manual-auto-4649",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102654083",
+      "matched_name": "HG 1/144 ガンダムベース限定 ビルドストライクギャラクシーコスモス [プラフスキーパーティクルクリア]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102654083000&grp_id=5325"
+    },
+    "4573102654120": {
+      "product_id": "manual-auto-4509",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102654120",
+      "matched_name": "HG 1/144 ガンダムベース限定 ガンダムMk-II(ティターンズ仕様)(21st CENTURY REAL TYPE Ver.)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102654120000&grp_id=5325"
+    },
+    "4573102663955": {
+      "product_id": "manual-auto-2489",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102663955",
+      "matched_name": "ＨＧ 1/144 高機動型ザク 地上用 (サンホ機)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102663955000&grp_id=5325"
+    },
+    "4573102669209": {
+      "product_id": "manual-auto-4521",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102669209",
+      "matched_name": "HG 1/144 ガンダムベース限定 ガンダムキャリバーン [クリアカラー]",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102669209000&grp_id=5325"
+    },
+    "4573102671967": {
+      "product_id": "manual-auto-4511",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102671967",
+      "matched_name": "HG ガンダムベース限定 ドラケンE",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102671967000&grp_id=5325"
+    },
+    "4573102674685": {
+      "product_id": "manual-auto-4487",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102674685",
+      "matched_name": "HG 1/144 ガンダムベース限定 ガンダムFSD (試作型ロングレンジ・ビームライフル装備)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102674685000&grp_id=5325"
+    },
+    "4573102674692": {
+      "product_id": "manual-auto-4359",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102674692",
+      "matched_name": "HG 1/144 ガンダムベース福岡限定 シナンジュ Ver.GSF",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102674692000&grp_id=5325"
+    },
+    "4573102685360": {
+      "product_id": "manual-auto-4360",
+      "verification": "reviewed_match",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102685360",
+      "matched_name": "HG 1/144 ガンダムベース限定 ゼータガンダム[U.C.0088] (バイオセンサーイメージカラー)",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102685360000&grp_id=5325"
     }
   }
 }
