@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "dictionary_version": "2026-10-29.1",
-  "dictionary_file": "gunpla_dictionary_2026-10-29.1.json",
-  "sha256": "92ea8eddf649998e374cbf24a96e2627d8f31047230ef14574df9a3e0aa11840",
-  "product_count": 1832,
-  "barcode_count": 2310,
-  "pending_count": 274
+  "dictionary_version": "2026-10-29.2",
+  "dictionary_file": "gunpla_dictionary_2026-10-29.2.json",
+  "sha256": "bd7f60bbde266068d58a98cd71662f2d636b34d69b700c48ead25e7a11c92583",
+  "product_count": 1833,
+  "barcode_count": 2311,
+  "pending_count": 2095
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "dictionary_version": "2026-10-29.1",
+  "dictionary_version": "2026-10-29.2",
   "products": [
     {
       "product_id": "hg-import-v1-2",
@@ -18327,6 +18327,16 @@
       "release_date": "2025-04-19",
       "image_url": null,
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/4360",
+      "source_row": null
+    },
+    {
+      "product_id": "operator-jan-4580886844531",
+      "name": "HG 1/144 ガンダムヴァサーゴ",
+      "grade": "HG",
+      "scale": "1/144",
+      "release_date": "2026-10-31",
+      "image_url": null,
+      "official_manual_url": null,
       "source_row": null
     }
   ],
@@ -36748,6 +36758,14 @@
       "matched_name": "HG 1/144 ガンダムベース限定 ゼータガンダム[U.C.0088] (バイオセンサーイメージカラー)",
       "verified_at": "2026-10-29",
       "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102685360000&grp_id=5325"
+    },
+    "4580886844531": {
+      "product_id": "operator-jan-4580886844531",
+      "verification": "reviewed_match",
+      "source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4580886844531000&grp_id=5325",
+      "matched_name": "HG 1/144 ガンダムヴァサーゴ",
+      "verified_at": "2026-10-29",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4580886844531000&grp_id=5325"
     }
   }
 }
