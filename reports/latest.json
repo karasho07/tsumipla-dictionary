@@ -1,98 +1,10 @@
 {
   "schema_version": 1,
-  "base_sha256": "92ea8eddf649998e374cbf24a96e2627d8f31047230ef14574df9a3e0aa11840",
-  "base_version": "2026-10-29.1",
-  "collected_at": "2026-10-29T00:54:18.950904+00:00",
+  "base_sha256": "bd7f60bbde266068d58a98cd71662f2d636b34d69b700c48ead25e7a11c92583",
+  "base_version": "2026-10-29.2",
+  "collected_at": "2026-10-30T00:58:04.007706+00:00",
   "source_url": "https://www.bandaispirits.co.jp/products/search/result.php?search=true&category=1&sort=salesdate&order=decs&dsp_cnt=60",
   "items": [
-    {
-      "jan": "4580886844760",
-      "listed_name": "HG 1/144 ハイドラガンダム",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4580886844760000&grp_id=5325",
-      "listed_release_date": null,
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4580886844760",
-      "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "4dd57cd4e811496a31864e02"
-    },
-    {
-      "jan": "4573102743299",
-      "listed_name": "GUNDAM ASSEMBLE EXPANSION PACK 01 [EX01]",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102743299000&grp_id=5325",
-      "listed_release_date": "2026-10-31",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102743299",
-      "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "b851cb06c44a524377f2e21e"
-    },
-    {
-      "jan": "4573102743305",
-      "listed_name": "GUNDAM ASSEMBLE EXPANSION PACK 02 [EX02]",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102743305000&grp_id=5325",
-      "listed_release_date": "2026-10-31",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102743305",
-      "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "80ce4a9fd711936857d7fade"
-    },
-    {
-      "jan": "4573102739506",
-      "listed_name": "GUNDAM ASSEMBLE PAINT PACK 01 [PA01]",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102739506000&grp_id=5325",
-      "listed_release_date": "2026-10-31",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102739506",
-      "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "54f6bcbec89f093fc087a255"
-    },
-    {
-      "jan": "4573102743275",
-      "listed_name": "GUNDAM ASSEMBLE STARTER SET 01 [ST01]",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102743275000&grp_id=5325",
-      "listed_release_date": "2026-10-31",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102743275",
-      "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "c6ce1246b335400550597e20"
-    },
-    {
-      "jan": "4580886844531",
-      "listed_name": "HG 1/144 ガンダムヴァサーゴ",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4580886844531000&grp_id=5325",
-      "listed_release_date": "2026-10-31",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4580886844531",
-      "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "fa1400ccf42983bb3afa2efc"
-    },
-    {
-      "jan": "4573102725691",
-      "listed_name": "RG 1/144 RX-78-2 ガンダム Ver.2.0 [初音ミクVer.]",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102725691000&grp_id=5325",
-      "listed_release_date": null,
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102725691",
-      "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "c2d35dd3b67f2df2c897b9f8"
-    },
-    {
-      "jan": "4573102656247",
-      "listed_name": "SDガンダム EXスタンダード ガンダムバルバトス",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102656247000&grp_id=5325",
-      "listed_release_date": "2026-02-28",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102656247",
-      "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "d68585c31f07c1cb07b2cc89"
-    },
     {
       "jan": "4573102720177",
       "listed_name": "エールストプラくん 立体ラバーマスコットキーチェーン",
@@ -169,10 +81,87 @@
       "reason": "公式説明書の一致が0件または複数です",
       "kind": "JAN追加",
       "id": "5ab513874c19df641bbad989"
+    },
+    {
+      "jan": "4580886844760",
+      "listed_name": "HG 1/144 ハイドラガンダム",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4580886844760000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4580886844760",
+      "eligible": false,
+      "reason": "公式説明書の一致が0件または複数です",
+      "kind": "JAN追加",
+      "id": "4dd57cd4e811496a31864e02"
+    },
+    {
+      "jan": "4573102743299",
+      "listed_name": "GUNDAM ASSEMBLE EXPANSION PACK 01 [EX01]",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102743299000&grp_id=5325",
+      "listed_release_date": "2026-10-31",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102743299",
+      "eligible": false,
+      "reason": "公式説明書の一致が0件または複数です",
+      "kind": "JAN追加",
+      "id": "b851cb06c44a524377f2e21e"
+    },
+    {
+      "jan": "4573102743305",
+      "listed_name": "GUNDAM ASSEMBLE EXPANSION PACK 02 [EX02]",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102743305000&grp_id=5325",
+      "listed_release_date": "2026-10-31",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102743305",
+      "eligible": false,
+      "reason": "公式説明書の一致が0件または複数です",
+      "kind": "JAN追加",
+      "id": "80ce4a9fd711936857d7fade"
+    },
+    {
+      "jan": "4573102739506",
+      "listed_name": "GUNDAM ASSEMBLE PAINT PACK 01 [PA01]",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102739506000&grp_id=5325",
+      "listed_release_date": "2026-10-31",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102739506",
+      "eligible": false,
+      "reason": "公式説明書の一致が0件または複数です",
+      "kind": "JAN追加",
+      "id": "54f6bcbec89f093fc087a255"
+    },
+    {
+      "jan": "4573102743275",
+      "listed_name": "GUNDAM ASSEMBLE STARTER SET 01 [ST01]",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102743275000&grp_id=5325",
+      "listed_release_date": "2026-10-31",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102743275",
+      "eligible": false,
+      "reason": "公式説明書の一致が0件または複数です",
+      "kind": "JAN追加",
+      "id": "c6ce1246b335400550597e20"
+    },
+    {
+      "jan": "4573102725691",
+      "listed_name": "RG 1/144 RX-78-2 ガンダム Ver.2.0 [初音ミクVer.]",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102725691000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102725691",
+      "eligible": false,
+      "reason": "公式説明書の一致が0件または複数です",
+      "kind": "JAN追加",
+      "id": "c2d35dd3b67f2df2c897b9f8"
+    },
+    {
+      "jan": "4573102656247",
+      "listed_name": "SDガンダム EXスタンダード ガンダムバルバトス",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102656247000&grp_id=5325",
+      "listed_release_date": "2026-02-28",
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102656247",
+      "eligible": false,
+      "reason": "公式説明書の一致が0件または複数です",
+      "kind": "JAN追加",
+      "id": "d68585c31f07c1cb07b2cc89"
     }
   ],
   "errors": [],
   "scanned": 60,
-  "already_known": 45,
+  "already_known": 46,
   "remaining": 0
 }
