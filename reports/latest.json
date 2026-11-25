@@ -1,10 +1,21 @@
 {
   "schema_version": 1,
-  "base_sha256": "a7997f9f0af77b15c521afa595fcb722c63036f21f099a44cfead219dfd7e819",
-  "base_version": "2026-11-10.1",
-  "collected_at": "2026-11-24T05:18:57.889631+00:00",
+  "base_sha256": "10ebd7479ee6bde7c1c5894cc0aab62ace93afae24866c4cb0e188ec7cf1327c",
+  "base_version": "2026-11-25.2",
+  "collected_at": "2026-11-25T04:10:37.698812+00:00",
   "source_url": "https://www.bandaispirits.co.jp/products/search/result.php?search=true&category=1&sort=salesdate&order=decs&dsp_cnt=60",
   "items": [
+    {
+      "jan": "4580886848782",
+      "listed_name": "HG 1/144 ジーライン・アサルトアーマー",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4580886848782000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4580886848782",
+      "eligible": false,
+      "reason": "公式説明書の一致が0件または複数です",
+      "kind": "JAN追加",
+      "id": "dc376dab091ec15f0936f7eb"
+    },
     {
       "jan": "4580886844760",
       "listed_name": "HG 1/144 ハイドラガンダム",
@@ -13,38 +24,8 @@
       "source_url": "https://manual.bandai-hobby.net/?freeword=4580886844760",
       "eligible": false,
       "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "4dd57cd4e811496a31864e02"
-    },
-    {
-      "jan": "4573102743299",
-      "listed_name": "GUNDAM ASSEMBLE EXPANSION PACK 01 [EX01]",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102743299000&grp_id=5325",
-      "listed_release_date": "2026-10-31",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102743299",
-      "eligible": true,
-      "reason": "公式説明書の単一結果と商品名を照合済み。運営者の確認待ち",
-      "kind": "JAN追加",
-      "name": "GUNDAM ASSEMBLE EXPANSION PACK 01 [EX01]",
-      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/5712",
-      "release_date": "2026-10-31",
-      "target_product_id": null,
-      "id": "a085e4aeee27e650b4a5d048"
-    },
-    {
-      "jan": "4573102743305",
-      "listed_name": "GUNDAM ASSEMBLE EXPANSION PACK 02 [EX02]",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102743305000&grp_id=5325",
-      "listed_release_date": "2026-10-31",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102743305",
-      "eligible": true,
-      "reason": "公式説明書の単一結果と商品名を照合済み。運営者の確認待ち",
-      "kind": "JAN追加",
-      "name": "GUNDAM ASSEMBLE EXPANSION PACK 02 [EX02]",
-      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/5713",
-      "release_date": "2026-10-31",
-      "target_product_id": null,
-      "id": "38f509215609387c0b853675"
+      "kind": "発売日補完",
+      "id": "d1cbfd54c90f533daab3cc58"
     },
     {
       "jan": "4573102739506",
@@ -52,29 +33,13 @@
       "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102739506000&grp_id=5325",
       "listed_release_date": "2026-10-31",
       "source_url": "https://manual.bandai-hobby.net/?freeword=4573102739506",
-      "eligible": true,
-      "reason": "公式説明書の単一結果と商品名を照合済み。運営者の確認待ち",
-      "kind": "JAN追加",
+      "eligible": false,
+      "reason": "既存JANの説明書URLを確認できません",
+      "kind": "発売日補完",
       "name": "GUNDAM ASSEMBLE PAINT PACK 01 [PA01]",
       "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/5714",
       "release_date": "2026-10-31",
-      "target_product_id": null,
-      "id": "4618062e46c9f07b2ae3325d"
-    },
-    {
-      "jan": "4573102743275",
-      "listed_name": "GUNDAM ASSEMBLE STARTER SET 01 [ST01]",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102743275000&grp_id=5325",
-      "listed_release_date": "2026-10-31",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102743275",
-      "eligible": true,
-      "reason": "公式説明書の単一結果と商品名を照合済み。運営者の確認待ち",
-      "kind": "JAN追加",
-      "name": "GUNDAM ASSEMBLE STARTER SET 01 [ST01]",
-      "official_manual_url": "https://manual.bandai-hobby.net/menus/detail/5711",
-      "release_date": "2026-10-31",
-      "target_product_id": null,
-      "id": "b35d483503eb790e2b3ed2ce"
+      "id": "fd0be7eae8753aa18181fa04"
     },
     {
       "jan": "4573102725691",
@@ -84,100 +49,12 @@
       "source_url": "https://manual.bandai-hobby.net/?freeword=4573102725691",
       "eligible": false,
       "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "c2d35dd3b67f2df2c897b9f8"
-    },
-    {
-      "jan": "4573102656247",
-      "listed_name": "SDガンダム EXスタンダード ガンダムバルバトス",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102656247000&grp_id=5325",
-      "listed_release_date": "2026-02-28",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102656247",
-      "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "d68585c31f07c1cb07b2cc89"
-    },
-    {
-      "jan": "4573102720177",
-      "listed_name": "エールストプラくん 立体ラバーマスコットキーチェーン",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102720177000&grp_id=5325",
-      "listed_release_date": "2026-01-31",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720177",
-      "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "53294af93f3f0dbd85bf0af3"
-    },
-    {
-      "jan": "4573102720153",
-      "listed_name": "ジオプラくん 立体ラバーマスコットキーチェーン",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102720153000&grp_id=5325",
-      "listed_release_date": "2026-01-31",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720153",
-      "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "b06bfc6c277a3b44411210b2"
-    },
-    {
-      "jan": "4573102720146",
-      "listed_name": "ドムプラくん 立体ラバーマスコットキーチェーン",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102720146000&grp_id=5325",
-      "listed_release_date": "2026-01-31",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720146",
-      "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "85c6d54d2862597f096e6bba"
-    },
-    {
-      "jan": "4573102720160",
-      "listed_name": "ビルドストプラくん 立体ラバーマスコットキーチェーン",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102720160000&grp_id=5325",
-      "listed_release_date": "2026-01-31",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102720160",
-      "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "2a5f09762b30f97f33832900"
-    },
-    {
-      "jan": "4573102688767",
-      "listed_name": "ガンダムデカールNo.141 機動戦士ガンダムSEED FREEDOM汎用1",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102688767000&grp_id=5325",
-      "listed_release_date": "2025-09-27",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102688767",
-      "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "0d52c5cb0e75ed37d1e2e7bd"
-    },
-    {
-      "jan": "4573102688774",
-      "listed_name": "ガンダムデカールNo.142 機動戦士ガンダムSEED FREEDOM汎用2",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102688774000&grp_id=5325",
-      "listed_release_date": "2025-09-27",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102688774",
-      "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "6f86ffb717577e50edb35a56"
-    },
-    {
-      "jan": "4573102686916",
-      "listed_name": "ガンダムデカールNo.139 機動戦士Gundam GQuuuuuuX汎用1",
-      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4573102686916000&grp_id=5325",
-      "listed_release_date": "2025-09-20",
-      "source_url": "https://manual.bandai-hobby.net/?freeword=4573102686916",
-      "eligible": false,
-      "reason": "公式説明書の一致が0件または複数です",
-      "kind": "JAN追加",
-      "id": "5ab513874c19df641bbad989"
+      "kind": "発売日補完",
+      "id": "d6394aed8ae9925436fd71b5"
     }
   ],
   "errors": [],
   "scanned": 60,
-  "already_known": 46,
+  "already_known": 56,
   "remaining": 0
 }
