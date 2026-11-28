@@ -2,9 +2,20 @@
   "schema_version": 1,
   "base_sha256": "10ebd7479ee6bde7c1c5894cc0aab62ace93afae24866c4cb0e188ec7cf1327c",
   "base_version": "2026-11-25.2",
-  "collected_at": "2026-11-27T03:38:08.954682+00:00",
+  "collected_at": "2026-11-28T03:18:13.302906+00:00",
   "source_url": "https://www.bandaispirits.co.jp/products/search/result.php?search=true&category=1&sort=salesdate&order=decs&dsp_cnt=60",
   "items": [
+    {
+      "jan": "4580886853601",
+      "listed_name": "HG 1/144 ティエルヴァ",
+      "candidate_source_url": "https://www.bandaispirits.co.jp/products/search/detail.php?prd_id=4580886853601000&grp_id=5325",
+      "listed_release_date": null,
+      "source_url": "https://manual.bandai-hobby.net/?freeword=4580886853601",
+      "eligible": false,
+      "reason": "公式説明書の一致が0件または複数です",
+      "kind": "JAN追加",
+      "id": "b70469fa4dc43058251dadb6"
+    },
     {
       "jan": "4580886848782",
       "listed_name": "HG 1/144 ジーライン・アサルトアーマー",
@@ -55,6 +66,6 @@
   ],
   "errors": [],
   "scanned": 60,
-  "already_known": 56,
+  "already_known": 55,
   "remaining": 0
 }
